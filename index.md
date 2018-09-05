@@ -1,5 +1,4 @@
 ---
-layouts: default
 title: Code4Lib Japan
 ---
 
