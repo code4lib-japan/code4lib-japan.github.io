@@ -1,2 +1,2 @@
-site_title: Code4Lib JAPAN
 theme: jekyll-theme-cayman
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
