@@ -1,0 +1,126 @@
+---
+layout: post
+status: publish
+published: true
+title: 第3回Code4Lib JAPAN Workshop 「APIは怖くない！－RSSからAPIまで便利な仕組みを使い倒そう」（12月12～13日）（サービス構築コース）
+  が無事開催されました
+wordpress_id: 789
+wordpress_url: http://www.code4lib.jp/2010/12/789/
+date: '2010-12-13 23:45:00 +0000'
+date_gmt: '2010-12-13 14:45:00 +0000'
+categories:
+- 開催報告
+tags: []
+comments: []
+---
+<div class="section">
+<div style="float:right">
+<p><a href="http://www.flickr.com/photos/53219053@N07/5257634660/" title="DSCF8072 by Code4Lib_JAPAN, on Flickr"><img width="240" alt="DSCF8072" src="http://farm6.static.flickr.com/5049/5257634660_d6c9916aa8_m.jpg" height="180"></a></p>
+</div>
+<p>第3回Code4Lib JAPAN Workshop 「APIは怖くない！－RSSからAPIまで便利な仕組みを使い倒そう」（12月12～13日）（サービス構築コース）の開催報告です。</p>
+<ul>
+<li>開催要項：<a href="http://www.code4lib.jp/2010/11/210/" target="_blank">  第3回Code4Lib JAPAN Workshop 「APIは怖くない！?RSSからAPIまで便利な仕組みを使い倒そう」（12月12?13日）（サービス構築コース） - Code4Lib JAPAN</a></li>
+<li>Togetterのまとめ： <a href="http://togetter.com/li/78544" target="_blank">http://togetter.com/li/78544</a></li>
+<li>写真：<a href="http://www.flickr.com/photos/53219053@N07/sets/72157625462796807/" target="_blank">http://www.flickr.com/photos/53219053@N07/sets/72157625462796807/</a></li>
+</ul>
+<p>26人の方の参加がありました（過去最高の参加者数です）。ありがとうございました。</p>
+<p>配布物：</p>
+<ul>
+<li>プログラム</li>
+<li>講義内容のハンドアウト(PPTのスライド9分割 A4&times;3枚)</li>
+<li>実習内容のメモ（使用するツールのURLなど;A4&times;3枚）</li>
+<li>実習に使用したサンプルファイル(A4&times;1枚)</li>
+<li>レファレンス協同データベースのちらし</li>
+<li>レファレンス協同データベースのAPI仕様</li>
+<li>第3回ワークショップちらし</li>
+<li>Cpde4Lib JAPANちらし（三つ折り）</li>
+<li>Code4Lib 2011渡航助成のちらし</li>
+<li>サポーター/スポンサーちらし</li>
+<li>サポーター/スポンサー申込書</li>
+<li>りぶらイベントのちらし</li>
+</ul>
+<p>最初に、1人1分間のライトニングトーク形式での自己紹介をしました。RSS、APIについての高久氏からの概説のあと、RSS読み込みモジュールを使用して、たった十数行をHTMLに追加するだけで、RSSからの情報をHTML埋め込む演習、Yahoo Pipesを使って、ちょこちょこっとアイコンを追加したりつなげたりするだけで、レファレンス協同データベースのAPIデータをRSSへ変換する演習を行いました。たった2時間で、RSSやAPIを活用してすぐに動くものができたことで、感動の声も上がりました。夕食で蟹を堪能したり、温泉に入ったあとに、旅館の一室に集まって、日頃疑問に思っていることなど語りあいました。特に、岡崎市事件のことや、相互貸借の負担金についての話が盛り上がりました。2日目は、チームにわかれてグループ討議をおこない、チームごとの発表と講師（+大向氏）からの講評を行いました。</p>
+<p>Workshop後のアンケートでは以下のような結果が出ました（26人中23名回答）。</p>
+<p>今回のワークショップに参加して満足でしたか？</p>
+<ul>
+<li>満足した:19(83%)</li>
+<li>やや満足した:4(17%)</li>
+<li>やや不満である:0(0%)</li>
+<li>不満である:0(0%)</li>
+</ul>
+<p>なんとなんと、第2回ワークショップと同様の満足度です。</p>
+<p>各地から参加してくださった、参加者の皆さま、ありがとうございました。</p>
+<p>誘致してくださった、宮川さま、奥山さま大変ありがとうございました。</p>
+<p>当日の運営にも全面的にご協力いただきました。</p>
+<p>また、参加者にもかかわらず、講師並みに講評等をしてくださった大向様、大変感謝しております。</p>
+<p>なんと、ワークショップ終了直後の12月15日には、ワークショップでの成果を生かして、福井県立図書館のサイトで、「<a href="http://www.library.pref.fukui.jp/reference/reference_top.html#jirei" target="_blank">最近のレファレンス事例</a>」（レファレンス共同データベースのAPIとYahoo! pipes、RSS読み込みモジュールを使って作成されています）が受講者の手によって公開されています。(2010-12-16追加)</p>
+<p>最後に、プログラムを掲載しておきます。</p>
+<blockquote>
+<p>＜1日目＞</p>
+<p>12:30 受付開始</p>
+<p>13:00 - 14:00 自己紹介：60分</p>
+<p>　休憩：10分</p>
+<p>14:10 - 15:10 講義：60分</p>
+<p>　（概説) RSS, API, マッシュアップ</p>
+<p>　休憩：10分</p>
+<p>15:20 - 17:20 実習：120分</p>
+<p>　RSS読み込みモジュールの作成</p>
+<p>　Yahoo Pipesを使ったレファ協APIの活用</p>
+<p>17:20-17:30 連絡事項と修了証授与</p>
+<p>　休憩：90分</p>
+<p>19:00-21:00 宴会 </p>
+<p>21:30-24:00 語り合い</p>
+<p>　岡崎市の事件や、相互貸借の費用負担の話などでもりあがりました。</p>
+<p>---------------------</p>
+<p>＜2日目＞</p>
+<p>9:00 - 11:00 ワークショップ:120分</p>
+<p>　5チームにわかれて、グループ討議</p>
+<p>11:00 - 11:30 質疑:30分</p>
+<p>　グループ討議の内容を1チーム5分で発表</p>
+<p>　講評（講師から）</p>
+<p>11:30-11:45 アンケート入力と修了証授与：15分</p>
+<p>11:45-12:00 まとめと事務連絡</p>
+<p>12:00 解散（参加者）</p>
+<p>12:00-13:30 あとかたづけ</p>
+</blockquote>
+<p>
+<style type="text/css">
+#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}<br />
+#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}<br />
+#flickr_icon_td {padding:0 5px 0 0 !important;}<br />
+.flickr_badge_image {text-align:center !important;}<br />
+.flickr_badge_image img {border: 1px solid black !important;}<br />
+#flickr_www {display:block; text-align:left; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}<br />
+#flickr_badge_uber_wrapper a:hover,<br />
+#flickr_badge_uber_wrapper a:link,<br />
+#flickr_badge_uber_wrapper a:active,<br />
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}<br />
+#flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}<br />
+#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}<br />
+</style></p>
+<p>
+<table cellspacing="10" cellpadding="0" id="flickr_badge_uber_wrapper" border="0">
+<tr>
+<td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><br />
+<table cellspacing="10" id="flickr_badge_wrapper" cellpadding="0" border="0">
+<tr>
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=53219053%40N07&set=72157625462796807&context=in%2Fset-72157625462796807%2F"></script></p>
+<td align="center" valign="center" id="flickr_badge_source">
+<p>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="10" id="flickr_icon_td"><a href="http://www.flickr.com/photos/53219053@N07/sets/72157625462796807/"><img width="48" align="left" alt="Code4Lib_JAPAN&rsquo;s 第3回Code4Lib JAPANワークショップ＠芦原温泉 photoset" src="http://farm5.static.flickr.com/4098/buddyicons/53219053@N07.jpg?1282411030#53219053@N07" id="flickr_badge_icon" height="48"></a></td>
+<td id="flickr_badge_source_txt">Code4Lib_JAPAN's <a href="http://www.flickr.com/photos/53219053@N07/sets/72157625462796807/">第3回Code4Lib JAPANワークショップ＠芦原温泉</a> photoset</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><br></p>
+<p>by 江草 由佳</p>
+<p>（2010-12-14 Flickr写真集へのリンク追加、一部表示を整形 by 高久）</p>
+<p>（2010-12-16 受講者の成果を追加）</p>
+</div>
