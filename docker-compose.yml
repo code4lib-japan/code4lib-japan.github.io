@@ -1,8 +1,13 @@
 version: "3"
 services:
   website:
-    image: starefossen/github-pages:latest
+    build: .
     ports:
       - 4000:4000
     volumes:
-      - .:/usr/src/app
+      - .:/usr/local/website
+      - bundle_install:/usr/local/vendor/bundle
+    command: bundle exec jekyll serve -d ./_site --watch --force_polling -H 0.0.0.0 -P 4000
+volumes:
+  bundle_install:
+    driver: local
