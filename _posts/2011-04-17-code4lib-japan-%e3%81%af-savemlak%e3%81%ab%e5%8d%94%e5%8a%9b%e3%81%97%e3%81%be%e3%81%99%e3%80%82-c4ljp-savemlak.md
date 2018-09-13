@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'Code4Lib JAPAN は saveMLAKに協力します。 #c4ljp #savemlak'
+slug: "803"
 wordpress_id: 803
 wordpress_url: http://www.code4lib.jp/2011/04/803/
 date: '2011-04-17 23:41:31 +0000'

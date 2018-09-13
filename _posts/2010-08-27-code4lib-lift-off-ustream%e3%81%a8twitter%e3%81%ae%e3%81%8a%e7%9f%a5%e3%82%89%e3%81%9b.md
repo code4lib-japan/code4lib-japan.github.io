@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Code4Lib Lift Off USTREAMとtwitterのお知らせ
+slug: "764"
 wordpress_id: 764
 wordpress_url: http://www.code4lib.jp/2010/08/764/
 date: '2010-08-27 08:42:35 +0000'

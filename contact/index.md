@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: お問い合わせ
+slug: "8"
 wordpress_id: 8
 wordpress_url: http://www.code4lib.jp/?page_id=8
 date: '2010-08-21 20:15:06 +0000'

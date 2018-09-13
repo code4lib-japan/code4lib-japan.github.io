@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 参加受付開始： Code4Lib 参加報告会＆Code4Lib JAPAN Camp 2011
+slug: "791"
 wordpress_id: 791
 wordpress_url: http://www.code4lib.jp/2011/01/791/
 date: '2011-01-28 14:30:35 +0000'

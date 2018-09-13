@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: Top
+slug: "422"
 wordpress_id: 422
 wordpress_url: http://www.code4lib.jp/?page_id=4
 date: '2010-08-19 20:29:58 +0000'

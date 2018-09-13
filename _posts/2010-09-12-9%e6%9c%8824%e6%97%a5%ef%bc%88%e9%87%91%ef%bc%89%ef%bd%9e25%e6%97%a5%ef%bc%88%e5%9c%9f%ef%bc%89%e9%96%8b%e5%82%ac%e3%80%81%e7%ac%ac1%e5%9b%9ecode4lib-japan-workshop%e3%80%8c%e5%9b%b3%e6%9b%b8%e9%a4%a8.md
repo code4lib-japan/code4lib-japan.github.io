@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 第1回Code4Lib JAPAN Workshop「図書館からはじめるデジタルアーカイブ」（9月24日～25日）
+slug: "140"
 wordpress_id: 140
 wordpress_url: http://www.code4lib.jp/?p=140
 date: '2010-09-12 02:58:26 +0000'
