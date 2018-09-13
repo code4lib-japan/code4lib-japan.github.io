@@ -18,9 +18,9 @@ comments: []
 <li>スポンサー（法人会員）　：　1口　　10万円（年間）</li>
 </ul>
 <p>サポーター・スポンサーの特典については<a href="http://www.code4lib.jp/membership/">サポーター/スポンサーについて</a>をご覧ください。</p>
-<p>下記フォームにご記入の上送信していただきますと、折り返しメールにてご連絡さしあげます。お申し込みから一週間程度たっても、担当者から折り返し連絡がない場合は、お手数ですが、<img src="http://www.code4lib.jp/wp-content/uploads/2010/11/info_code4lib_mail.gif" alt="メールアドレス" />までご連絡ください。</p>
+<p>下記フォームにご記入の上送信していただきますと、折り返しメールにてご連絡さしあげます。お申し込みから一週間程度たっても、担当者から折り返し連絡がない場合は、お手数ですが、<img src="{{ site.baseurl }}/assets/uploads/2010/11/info_code4lib_mail.gif" alt="メールアドレス" />までご連絡ください。</p>
 <p>[iframe https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dGhwZkQ0TnlFZlRQSVhnVkx6ZzQ5dlE6MQ 600 1027]</p>
-<p> 上記フォームが表示されない場合は、<a href="https://spreadsheets.google.com/a/code4lib.jp/spreadsheet/viewform?hl=en_US&formkey=dGhwZkQ0TnlFZlRQSVhnVkx6ZzQ5dlE6MQ#gid=0">こちら</a>からご利用くださるか、または下記テンプレートにしたがい、<img src="http://www.code4lib.jp/wp-content/uploads/2010/11/info_code4lib_mail.gif" alt="メールアドレス" />へ直接メールをお送りください。</p>
+<p> 上記フォームが表示されない場合は、<a href="https://spreadsheets.google.com/a/code4lib.jp/spreadsheet/viewform?hl=en_US&formkey=dGhwZkQ0TnlFZlRQSVhnVkx6ZzQ5dlE6MQ#gid=0">こちら</a>からご利用くださるか、または下記テンプレートにしたがい、<img src="{{ site.baseurl }}/assets/uploads/2010/11/info_code4lib_mail.gif" alt="メールアドレス" />へ直接メールをお送りください。</p>
 <h4>サポーター（個人会員）のテンプレート</h4>
 <p>件名: Code4Lib JAPAN サポーター申込希望<br />
 <code><br />

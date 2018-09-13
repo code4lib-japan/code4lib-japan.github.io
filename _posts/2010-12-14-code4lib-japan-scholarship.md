@@ -30,7 +30,7 @@ conference-report workshop in Japan after the conference.</p>
 <li>(optional) Describe your presentation summary, if you propose to present a talk</li>
 </ol>
 <p>C4LJP application deadline is December 15, 2010. C4LJP will notify successful candidates by December 25, 2010.<br />
-<img src="http://code4libjp.sakura.ne.jp/www.code4lib.jp/wp-content/uploads/2010/11/info_code4lib_mail2.gif" alt="mail address" /></p>
+<img src="{{ site.baseurl }}/assets/uploads/2010/11/info_code4lib_mail2.gif" alt="mail address" /></p>
 <ul>
 <li><a href="http://code4lib.org/conference/2011">http://code4lib.org/conference/2011</a></li>
 </ul>
