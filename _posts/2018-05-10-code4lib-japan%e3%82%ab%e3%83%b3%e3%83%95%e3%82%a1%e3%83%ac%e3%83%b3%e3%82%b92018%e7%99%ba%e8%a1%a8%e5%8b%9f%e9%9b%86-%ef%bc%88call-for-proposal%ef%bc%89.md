@@ -68,14 +68,14 @@ comments: []
 <p><strong>【問い合わせ先】</strong></p>
 <p>e-mail: code4lib-japan-2018 at googlegroups.com</p>
 <p><strong>【参考: 前回のカンファレンスの様子】</strong></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A4819.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A4819-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A4914.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A4914-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A4920.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A4920-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5139.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5139-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5162.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5162-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5168.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5168-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5182.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5182-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5251.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5251-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5444.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5444-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5663.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5663-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5680.jpg"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2018/05/0L3A5680-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A4819.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A4819-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A4914.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A4914-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A4920.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A4920-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5139.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5139-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5162.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5162-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5168.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5168-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5182.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5182-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5251.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5251-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5444.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5444-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5663.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5663-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5680.jpg"><img class="size-medium aligncenter" src="{{ site.baseurl }}/assets/uploads/2018/05/0L3A5680-300x199.jpg" alt="" width="300" height="199" /></a></p>
