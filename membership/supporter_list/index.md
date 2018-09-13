@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: サポーター名簿
+slug: "401"
 wordpress_id: 401
 wordpress_url: http://www.code4lib.jp/
 date: '2011-02-18 19:44:37 +0000'

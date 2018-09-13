@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 8/28（土）Code4Lib JAPAN Lift Offへの招待
+slug: "762"
 wordpress_id: 762
 wordpress_url: http://www.code4lib.jp/2010/08/762/
 date: '2010-08-12 10:54:23 +0000'

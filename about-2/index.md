@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: Code4Lib JAPANとは
+slug: "421"
 wordpress_id: 421
 wordpress_url: http://www.code4lib.jp/?page_id=2
 date: '2010-08-19 11:13:11 +0000'

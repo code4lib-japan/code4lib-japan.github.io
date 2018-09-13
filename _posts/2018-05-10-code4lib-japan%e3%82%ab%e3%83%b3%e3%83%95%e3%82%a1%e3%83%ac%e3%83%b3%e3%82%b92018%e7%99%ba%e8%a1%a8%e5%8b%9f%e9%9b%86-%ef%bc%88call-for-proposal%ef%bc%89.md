@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Code4Lib JAPANカンファレンス2018発表募集 （Call For Proposal）
+slug: "1554"
 wordpress_id: 1554
 wordpress_url: http://www.code4lib.jp/?p=1554
 date: '2018-05-10 20:54:53 +0000'

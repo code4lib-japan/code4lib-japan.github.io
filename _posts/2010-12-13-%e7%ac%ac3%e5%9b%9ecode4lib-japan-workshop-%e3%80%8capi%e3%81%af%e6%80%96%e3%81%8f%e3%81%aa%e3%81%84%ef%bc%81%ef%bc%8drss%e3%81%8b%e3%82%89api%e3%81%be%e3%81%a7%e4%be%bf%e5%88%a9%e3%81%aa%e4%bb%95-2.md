@@ -4,6 +4,7 @@ status: publish
 published: true
 title: 第3回Code4Lib JAPAN Workshop 「APIは怖くない！－RSSからAPIまで便利な仕組みを使い倒そう」（12月12～13日）（サービス構築コース）
   が無事開催されました
+slug: "789"
 wordpress_id: 789
 wordpress_url: http://www.code4lib.jp/2010/12/789/
 date: '2010-12-13 23:45:00 +0000'
