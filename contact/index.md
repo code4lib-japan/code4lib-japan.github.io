@@ -27,4 +27,4 @@ comments:
 ---
 <h3>お問い合わせフォーム</h3>
 <p>下記フォームからお問い合わせ頂くと、Code4Lib JAPAN事務局へメールが配送されます。</p>
-<p>[iframe https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dGROM3N1QldxbGpHdExuVV9fbkRHTnc6MQ 500 700]  上記フォームが表示されない場合は、<a href="https://spreadsheets.google.com/a/code4lib.jp/spreadsheet/viewform?hl=en_US&formkey=dGROM3N1QldxbGpHdExuVV9fbkRHTnc6MQ#gid=0">こちら</a>からご利用くださるか、または件名に「Code4Lib JAPAN 問い合わせ」と記入の上、<img src="http://www.code4lib.jp/wp-content/uploads/2010/11/info_code4lib_mail.gif" alt="メールアドレス" />へ直接メールをお送りください。 </p>
+<p>[iframe https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dGROM3N1QldxbGpHdExuVV9fbkRHTnc6MQ 500 700]  上記フォームが表示されない場合は、<a href="https://spreadsheets.google.com/a/code4lib.jp/spreadsheet/viewform?hl=en_US&formkey=dGROM3N1QldxbGpHdExuVV9fbkRHTnc6MQ#gid=0">こちら</a>からご利用くださるか、または件名に「Code4Lib JAPAN 問い合わせ」と記入の上、<img src="{{ site.baseurl }}/assets/uploads/2010/11/info_code4lib_mail.gif" alt="メールアドレス" />へ直接メールをお送りください。 </p>

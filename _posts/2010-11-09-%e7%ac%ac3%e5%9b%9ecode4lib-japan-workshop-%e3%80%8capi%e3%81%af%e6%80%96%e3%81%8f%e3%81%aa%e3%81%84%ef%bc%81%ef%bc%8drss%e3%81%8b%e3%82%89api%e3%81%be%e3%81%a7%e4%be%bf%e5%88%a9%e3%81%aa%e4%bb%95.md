@@ -95,7 +95,7 @@ RSSからAPIまで便利なウェブの仕組みの使い方を学び、一緒�
 お申込み締め切り：<del datetime="2010-11-21T08:14:58+00:00">2010年11月20日（土）</del> 2010年11月29日（月）（延長しました） ※ただし、定員に達した場合は早期に締め切ることがあります。</p>
 <p>【パンフレット】</p>
 <div class="post-excerpt">
-<p class="attachment"><a href="http://code4libjp.sakura.ne.jp/www.code4lib.jp/wp-content/uploads/2010/11/flyer20101212-11212.pdf">パンフレット</a>（11月21日更新）</p>
+<p class="attachment"><a href="{{ site.baseurl }}/assets/uploads/2010/11/flyer20101212-11212.pdf">パンフレット</a>（11月21日更新）</p>
 </div>
 <p>【リンク】<br />
 「Code4Lib JAPAN ワークショップを芦原温泉に誘致する会」による <a href="http://d.hatena.ne.jp/yoshim32/20101104/1288842836">開催要項</a></p>
