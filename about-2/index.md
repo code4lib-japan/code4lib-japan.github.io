@@ -21,7 +21,7 @@ comments:
 <h3>Code4Lib とは</h3>
 <p><a href="http://code4lib.org/" target="_blank">Code4Lib</a>は、アメリカを中心に活動する図書館関係のプログラマ、システム技術者を中心としたコミュニティです。2003年の秋にインターネット上のメーリングリストとして発足、2006年からはオフライン（顔をあわせて）でのCode4Libカンファレンスを毎年開催しています。2010年2月に開催されたCode4Lib 2010には、アメリカに加え、日本を含め世界各地から約250名が参加しています。</p>
 <h3>Code4Lib JAPANとは</h3>
-<p><img src="http://www.code4lib.jp/wp-content/uploads/2012/03/Code4Lib_JAPAN_circle_wht150.png" alt="Code4Lib JAPAN Logo" /></p>
+<p><img src="{{ site.baseurl }}/assets/uploads/2012/03/Code4Lib_JAPAN_circle_wht150.png" alt="Code4Lib JAPAN Logo" /></p>
 <p>Code4Lib JAPANは、Code4Libの日本における組織を目指して結成します。現在、Code4Libは、アメリカ国内の7地域で支部的な活動が行われているほか、オランダとハンガリーにおいて海外支部的な活動が続けられています。</p>
 <p>Code4Lib JAPANでは、アメリカのCode4Libメンバーと連絡をとりつつ、日本での支部的な活動の拠点となることを一つの目標としています。</p>
 <p>Code4Libは、図書館の情報技術活用に関するエキスパートたちの集まりですが、Code4Lib&nbsp;JAPANでは、日本の図書館における情報技術活用の停滞という現実を踏まえ、エキスパートに限らず、一般のライブラリアンに広く門戸を開放することで図書館における情報技術活用を促進し、図書館の機能向上と利用者の図書館に対する満足度向上を目指します。</p>
@@ -55,7 +55,7 @@ comments:
 <address>アカデミック・リソース・ガイド株式会社内<br />
 Code４Lib JAPAN<br />
 電話番号：070-5467-7032（事務局長：岡本）<br />
-<img src="http://www.code4lib.jp/wp-content/uploads/2010/11/info_code4lib_mail2.gif" alt="メールアドレス" /></address>
+<img src="{{ site.baseurl }}/assets/uploads/2010/11/info_code4lib_mail2.gif" alt="メールアドレス" /></address>
 <h3>活動内容</h3>
 <p>現在、以下の活動を行っています：</p>
 <ul>
@@ -64,7 +64,7 @@ Code４Lib JAPAN<br />
 </ul>
 <h3>Code4Lib JAPAN紹介パンフレット</h3>
 <p>Code4Lib JAPANを紹介するパンフレットを作成しました。</p>
-<p>[<a href="http://www.code4lib.jp/wp-content/uploads/2010/08/パンフレット201101312.pdf">パンフレット</a>](2011年1月31日更新版)</p>
+<p>[<a href="{{ site.baseurl }}/assets/uploads/2010/08/パンフレット201101312.pdf">パンフレット</a>](2011年1月31日更新版)</p>
 <p>両面で印刷し、3つ折りにしてご利用ください。</p>
 <h3>Code4Lib JAPAN運営サイト</h3>
 <h4><a href="http://wiki.code4lib.jp/">Code4Lib JAPAN ウィキ</a></h4>
@@ -91,6 +91,6 @@ Code４Lib JAPAN<br />
 </ul>
 <h3>バナーの一覧</h3>
 <p>Code4Lib JAPAN のバナーは次をお使いください。</p>
-<p>320x50 <img src="http://www.code4lib.jp/wp-content/uploads/2012/03/code4lib_320x50.png" alt="Code4Lib Logo" /></p>
-<p>150x150 <img src="http://www.code4lib.jp/wp-content/uploads/2012/03/Code4Lib_JAPAN_circle_wht150.png" alt="Code4Lib Logo" /></p>
-<p>70x70 <img src="http://www.code4lib.jp/wp-content/uploads/2012/03/Code4Lib_JAPAN_circle_wht070.png" alt="Code4Lib Logo" /></p>
+<p>320x50 <img src="{{ site.baseurl }}/assets/uploads/2012/03/code4lib_320x50.png" alt="Code4Lib Logo" /></p>
+<p>150x150 <img src="{{ site.baseurl }}/assets/uploads/2012/03/Code4Lib_JAPAN_circle_wht150.png" alt="Code4Lib Logo" /></p>
+<p>70x70 <img src="{{ site.baseurl }}/assets/uploads/2012/03/Code4Lib_JAPAN_circle_wht070.png" alt="Code4Lib Logo" /></p>
