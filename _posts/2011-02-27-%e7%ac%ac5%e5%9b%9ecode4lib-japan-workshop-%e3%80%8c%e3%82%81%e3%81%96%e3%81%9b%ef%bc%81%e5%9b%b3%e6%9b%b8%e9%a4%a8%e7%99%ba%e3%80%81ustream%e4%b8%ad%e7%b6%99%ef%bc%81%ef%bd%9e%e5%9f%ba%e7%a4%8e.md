@@ -4,6 +4,7 @@ status: publish
 published: true
 title: 第5回Code4Lib JAPAN Workshop 「めざせ！図書館発、USTREAM中継！～基礎から、集客ノウハウまで～」 （コンテンツ作成コース）
   3月19日
+slug: "796"
 wordpress_id: 796
 wordpress_url: http://www.code4lib.jp/2011/02/796/
 date: '2011-02-27 21:31:10 +0000'

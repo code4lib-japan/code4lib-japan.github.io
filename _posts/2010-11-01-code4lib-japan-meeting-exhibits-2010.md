@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Code4Lib JAPAN Meeting & Exhibits 2010
+slug: "199"
 wordpress_id: 199
 wordpress_url: http://www.code4lib.jp/?p=199
 date: '2010-11-01 19:51:50 +0000'

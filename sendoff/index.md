@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: 国際事業
+slug: "38"
 wordpress_id: 38
 wordpress_url: http://www.code4lib.jp/
 date: '2010-08-23 19:08:08 +0000'

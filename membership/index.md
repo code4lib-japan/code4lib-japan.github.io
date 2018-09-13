@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: サポーター/スポンサー
+slug: "278"
 wordpress_id: 278
 wordpress_url: http://www.code4lib.jp/
 date: '2010-11-21 23:22:56 +0000'

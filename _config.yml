@@ -1,3 +1,4 @@
 repository: code4lib-japan/code4lib-japan.github.io
 theme: jekyll-theme-cayman
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Dockerfile', 'docker-compose.yml']
+permalink: /:year/:month/:slug
