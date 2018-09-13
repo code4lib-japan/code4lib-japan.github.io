@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 9月24日（金）～25日（土）開催、第1回Code4Lib JAPAN Workshop「図書館からはじめるデジタルアーカイブ」のビラ公開
+slug: "769"
 wordpress_id: 769
 wordpress_url: http://www.code4lib.jp/2010/09/769/
 date: '2010-09-11 05:48:38 +0000'

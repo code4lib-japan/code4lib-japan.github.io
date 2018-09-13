@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: カンファレンス
+slug: "1146"
 wordpress_id: 1146
 wordpress_url: http://www.code4lib.jp/?page_id=1146
 date: '2013-09-07 17:02:54 +0000'

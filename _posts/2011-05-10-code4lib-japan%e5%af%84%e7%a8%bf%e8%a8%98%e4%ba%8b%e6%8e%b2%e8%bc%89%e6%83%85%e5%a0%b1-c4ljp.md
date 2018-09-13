@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'Code4Lib JAPAN寄稿記事掲載情報 #c4ljp'
+slug: "805"
 wordpress_id: 805
 wordpress_url: http://www.code4lib.jp/2011/05/805/
 date: '2011-05-10 16:31:37 +0000'

@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Code4Lib JAPAN Scholarship for Code4Lib 2011
+slug: "350"
 wordpress_id: 350
 wordpress_url: http://www.code4lib.jp/?p=350
 date: '2010-12-14 14:20:10 +0000'
