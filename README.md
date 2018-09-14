@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## このリポジトリについて
 
-You can use the [editor on GitHub](https://github.com/code4lib-japan/code4lib-japan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+このリポジトリは Code4Lib JAPAN の公式サイト code4lib.jp の再構築のためのリポジトリです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+変更すべき点や気になる箇所を見つけた方は、 Issue や Pull request によりご報告いただければ幸いです。
 
-### Markdown
+サイト全体を Github Pages により構成していますので、ローカル環境でサイト内容をプレビュー確認されたい方は [Jekyll](https://jekyllrb.com)（[日本語訳サイト](https://jekyllrb-ja.github.io/)）をお試しください。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+----
 
-```markdown
-Syntax highlighted code block
+## About this repository
 
-# Header 1
-## Header 2
-### Header 3
+This repository is a on-going project for rebuilding the official web site of Code4Lib JAPAN.
 
-- Bulleted
-- List
+Please feel free to use Issue or Pull request, if you find any issues or problems.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/code4lib-japan/code4lib-japan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site is built on top of Github Pages. You can preview its contents with [Jekyll](https://jekyllrb.com).
