@@ -1,8 +1,8 @@
 ---
 title: Code4Lib Japan
+layout: home
 ---
 
-# Code4Lib Japan とは
 test
 
 # 記事一覧
