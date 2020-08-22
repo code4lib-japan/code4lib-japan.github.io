@@ -115,6 +115,6 @@ comments: []
 <li>Webサイト：<a href="https://wiki.code4lib.jp/wiki/C4ljp2013">https://wiki.code4lib.jp/wiki/C4ljp2013</a></li>
 <li><a href="https://www.facebook.com/events/508858532486640/">開催案内</a>（Facebook イベントページ）</li>
 <li><a href="https://wiki.code4lib.jp/wiki/C4ljp2013">プログラム</a></li>
-<li>開催報告: <a href="2013/09/1155">Code4Lib JAPANサイト</a> <a href="https://current.ndl.go.jp/e1486">カレントアウェアネス・ポータル E1486</a></li>
+<li>開催報告: <a href="/2013/09/1155">Code4Lib JAPANサイト</a> <a href="https://current.ndl.go.jp/e1486">カレントアウェアネス・ポータル E1486</a></li>
 <li><a href="/2013/07/1128">発表募集</a></li>
 </ul>
