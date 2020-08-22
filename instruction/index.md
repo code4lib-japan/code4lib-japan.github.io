@@ -20,6 +20,7 @@ comments: []
 <a href="http://www.code4lib.jp/category/instructions/">イベント・ニュース（研修事業）</a>を参照ください。</p>
 <h3>記録</h3>
 <ul>
+<li>第9回ワークショップ(2013年4月20日;横浜市 さくらWORKS＜関内＞)(延期)[<a href="http://www.code4lib.jp/2013/02/1118">開催要項</a>]</li>
 <li>第6回ミニワークショップ(2012年3月25日;横浜市 さくらWORKS＜関内＞)[<a href="http://www.code4lib.jp/2012/02/977">開催要項</a>][<a title="開催報告" href="http://www.code4lib.jp/2012/03/1037">開催報告</a>]</li>
 <li>Code4Lib 2012参加報告会(2012年3月5日;横浜市 さくらWORKS＜関内＞)[<a href="http://www.code4lib.jp/2012/02/947">開催要項</a>][<a href="http://www.code4lib.jp/2012/03/1000">開催報告</a>]</li>
 <li>第5回ミニワークショップ(2011年2月18日;横浜市 さくらWORKS＜関内＞)(中止)</li>
