@@ -15,19 +15,18 @@ comments: []
 <p><strong>ロング発表の応募は締め切りました。多数のご応募ありがとうございました！</strong></p>
 <p>今年のCode4Lib JAPANカンファレンスは大阪での開催！<br>
 第7回目となる今回は、大阪府の<a href="https://www.oml.city.osaka.lg.jp/index.php?page_id=134" style="border-radius: 5px;">大阪市立中央図書館</a>にて2019年9月7日（土）・8日（日）に開催します。</p>
-<p><a href="http://code4lib.org/" style="border-radius: 5px;">Code4Lib</a>（code for libraries）は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。<a href="http://www.code4lib.jp/" style="border-radius: 5px;">Code4Lib JAPAN</a>は、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。<br>
-参考:&nbsp;<a href="http://www.code4lib.jp/conference/" style="border-radius: 5px;">過去のカンファレンス開催記録</a></p>
-<p>これまでのカンファレンスでも、システムライブラリアンはもちろんのこと、図書館のサービスに関わりをもっているさまざまな職種の方々から興味深い発表が多数なされ、活発な議論が行われてきました（前回のカンファレンスの内容は<a href="http://wiki.code4lib.jp/wiki/C4ljp2018" style="border-radius: 5px;">こちら</a>からご覧いただけます）。</p>
+<p><a href="https://code4lib.org/" style="border-radius: 5px;">Code4Lib</a>（code for libraries）は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。<a href="https://www.code4lib.jp/" style="border-radius: 5px;">Code4Lib JAPAN</a>は、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。<br>
+参考:&nbsp;<a href="https://www.code4lib.jp/conference/" style="border-radius: 5px;">過去のカンファレンス開催記録</a></p>
+<p>これまでのカンファレンスでも、システムライブラリアンはもちろんのこと、図書館のサービスに関わりをもっているさまざまな職種の方々から興味深い発表が多数なされ、活発な議論が行われてきました（前回のカンファレンスの内容は<a href="https://wiki.code4lib.jp/wiki/C4ljp2018" style="border-radius: 5px;">こちら</a>からご覧いただけます）。</p>
 <p>多数の発表応募をお待ちしております！</p>
-<p><img title="もっと読む..." src="http://www.code4lib.jp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" alt=""><br>
-<strong>【概要】</strong></p>
+<p><strong>【概要】</strong></p>
 <p>名称：Code4Lib JAPANカンファレンス2019<br>
 日程：2019年9月7日（土）・9月8日（日）<br>
 場所：<a href="https://www.oml.city.osaka.lg.jp/index.php?page_id=134" style="border-radius: 5px;">大阪市立中央図書館</a><br>
 主催：Code4Lib JAPAN<br>
 協賛：（募集中）<br>
 後援：（募集中）<br>
-詳細URL：<a href="http://wiki.code4lib.jp/wiki/C4ljp2019" target="_blank" style="border-radius: 5px;">http://wiki.code4lib.jp/wiki/C4ljp2019</a></p>
+詳細URL：<a href="https://wiki.code4lib.jp/wiki/C4ljp2019" target="_blank" style="border-radius: 5px;">https://wiki.code4lib.jp/wiki/C4ljp2019</a></p>
 <p><strong>【開催趣旨】</strong></p>
 <p>Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ、<br>
 図書館員や技術者、その他すべての関係者が集い、アイデアやツールを紹介しあい、<br>
@@ -42,13 +41,13 @@ comments: []
 </ul>
 <p>などを実施し、多数の取り組みを共有していただくとともに、参加者間の交流を深めます。</p>
 <p><strong>【発表応募について】</strong></p>
-<p><strong>発表応募フォーム：&nbsp;<a title="http://bit.ly/c4ljp19-proposal" href="http://bit.ly/c4ljp19-proposal" target="_blank" style="border-radius: 5px;">http://bit.ly/c4ljp19-proposal</a></strong><span style="color: #ff0000;">（締め切りました）</span></p>
+<p><strong>発表応募フォーム：&nbsp;<a title="https://bit.ly/c4ljp19-proposal" href="http://bit.ly/c4ljp19-proposal" target="_blank" style="border-radius: 5px;">https://bit.ly/c4ljp19-proposal</a></strong><span style="color: #ff0000;">（締め切りました）</span></p>
 <p>発表は上記フォームからご応募ください。</p>
 <p>発表には口頭発表とライトニングトークの2つの形式があります。</p>
 <p>口頭発表にて発表されたい方は、応募フォームにて、１）発表タイトル、２）発表者（お名前、所属、連絡先）、３）発表内容の概要（800字以内）を明記の上、ご応募ください。</p>
 <ul>
 <li>口頭発表：15分の発表時間と5分の質疑応答時間が与えられます。8件程度の採択を予定。</li>
-<li>プレカンファレンス（チュートリアル）：詳細は<a href="http://wiki.code4lib.jp/wiki/C4ljp2019/preconference" style="border-radius: 5px;">こちら</a></li>
+<li>プレカンファレンス（チュートリアル）：詳細は<a href="https://wiki.code4lib.jp/wiki/C4ljp2019/preconference" style="border-radius: 5px;">こちら</a></li>
 </ul>
 <p>（発表時間については、プログラム編成の都合により若干の調整が入ります）<br>
 ライトニングトーク（5分）については、開催当日に現地にて募集します。</p>
@@ -69,12 +68,12 @@ comments: []
 <p><strong>【問い合わせ先】</strong></p>
 <p>e-mail: code4lib-japan-2019 at googlegroups.com</p>
 <p><strong>【参考: 前回のカンファレンスの様子】</strong></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3841.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3841-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3861.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3861-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3769.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3769-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3812.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A3812-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4221.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4221-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4161.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4161-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4376.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4376-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4501.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4501-300x199.jpg" alt="" width="300" height="199"></a></p>
-<p><a href="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4537.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/wp-content/uploads/2019/03/0L3A4537-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3841.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3841-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3861.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3861-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3769.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3769-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3812.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A3812-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4221.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4221-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4161.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4161-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4376.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4376-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4501.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4501-300x199.jpg" alt="" width="300" height="199"></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4537.jpg" style="border-radius: 5px;"><img class="size-medium aligncenter" src="http://www.code4lib.jp/assets/uploads/2019/03/0L3A4537-300x199.jpg" alt="" width="300" height="199"></a></p>
