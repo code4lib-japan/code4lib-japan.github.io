@@ -18,12 +18,12 @@ comments: []
 ---
 <p>今年のCode4Lib JAPANカンファレンスは九州での初開催！<br />
 第5回目となる今回は、熊本市の<a href="http://www.kumagaku.ac.jp/">熊本学園大学</a>にて2017年9月2日（土）・3日（日）に開催します。</p>
-<p><a href="http://code4lib.org/">Code4Lib</a>（code for libraries）は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。<a href="http://www.code4lib.jp/">Code4Lib JAPAN</a>は、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。<br />
-参考: <a href="http://www.code4lib.jp/conference/">過去のカンファレンス開催記録</a></p>
-<p>これまでのカンファレンスでも、システムライブラリアンはもちろんのこと、図書館のサービスに関わりをもっているさまざまな職種の方々から興味深い発表が多数なされ、活発な議論が行われてきました（前回のカンファレンスの内容は<a href="http://wiki.code4lib.jp/wiki/C4ljp2016">こちら</a>からご覧いただけます）。</p>
+<p><a href="https://code4lib.org/">Code4Lib</a>（code for libraries）は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。<a href="https://www.code4lib.jp/">Code4Lib JAPAN</a>は、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。<br />
+参考: <a href="https://www.code4lib.jp/conference/">過去のカンファレンス開催記録</a></p>
+<p>これまでのカンファレンスでも、システムライブラリアンはもちろんのこと、図書館のサービスに関わりをもっているさまざまな職種の方々から興味深い発表が多数なされ、活発な議論が行われてきました（前回のカンファレンスの内容は<a href="https://wiki.code4lib.jp/wiki/C4ljp2016">こちら</a>からご覧いただけます）。</p>
 <p>多数の発表応募をお待ちしております！</p>
 <p><strong>ロング発表の応募は締め切りましたが、ライトニングトークの発表(12件程度)については当日現地で募集します！<br><br />
-ライトニングトーク発表をご希望の方は、<a href="http://www.code4lib.jp/2017/07/1526/">参加申込</a>をよろしくお願いします。<br />
+ライトニングトーク発表をご希望の方は、<a href="https://www.code4lib.jp/2017/07/1526/">参加申込</a>をよろしくお願いします。<br />
 </strong></p>
 <p><!--more--><br />
 <strong>【概要】</strong></p>
@@ -34,7 +34,7 @@ comments: []
 主催：Code4Lib JAPAN<br />
 協賛：（募集中）<br />
 後援：（募集中）<br />
-詳細URL：<a href="http://wiki.code4lib.jp/wiki/C4ljp2017" target="_blank">http://wiki.code4lib.jp/wiki/C4ljp2017</a></p>
+詳細URL：<a href="https://wiki.code4lib.jp/wiki/C4ljp2017" target="_blank">https://wiki.code4lib.jp/wiki/C4ljp2017</a></p>
 <p><strong>【開催趣旨】</strong></p>
 <p>Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ、<br />
 図書館員や技術者、その他すべての関係者が集い、アイデアやツールを紹介しあい、<br />
@@ -48,7 +48,7 @@ comments: []
 </ul>
 <p>などを実施し、多数の取り組みを共有していただくとともに、参加者間の交流を深めます。</p>
 <p><strong>【発表応募について】</strong></p>
-<p><strong>発表応募フォーム： <a title="http://bit.ly/c4ljp17-proposal" href="http://bit.ly/c4ljp17-proposal" target="_blank">http://bit.ly/c4ljp17-proposal</a></strong> <span style="color: #ff0000;">（締め切りました）</span></p>
+<p><strong>発表応募フォーム： <a title="https://bit.ly/c4ljp17-proposal" href="https://bit.ly/c4ljp17-proposal" target="_blank">https://bit.ly/c4ljp17-proposal</a></strong> <span style="color: #ff0000;">（締め切りました）</span></p>
 <p>発表は上記フォームからご応募ください。</p>
 <p>発表にはロング発表とライトニングトークの2つの形式があります。</p>
 <p>ロング発表にて発表されたい方は、応募フォームにて、１）発表タイトル、２）発表者（お名前、所属、連絡先）、３）発表内容の概要（800字以内）を明記の上、ご応募ください。</p>
@@ -75,11 +75,11 @@ comments: []
 <p><strong>【問い合わせ先】</strong></p>
 <p>e-mail: code4lib-japan-2017 at googlegroups.com</p>
 <p><strong>【参考: 前回のカンファレンスの様子】</strong></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7320/" rel="attachment wp-att-1472"><img class="aligncenter size-medium wp-image-1472" title="木達さん講演" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7320-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7265/" rel="attachment wp-att-1473"><img class="aligncenter size-medium wp-image-1473" title="会場風景" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7265-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7446/" rel="attachment wp-att-1478"><img class="aligncenter size-medium wp-image-1478" title="発表風景" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7446-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7376/" rel="attachment wp-att-1479"><img class="aligncenter size-medium wp-image-1479" title="質疑応答" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7376-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7498/" rel="attachment wp-att-1474"><img class="aligncenter size-medium wp-image-1474" title="中之島ツアー" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7498-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7502/" rel="attachment wp-att-1475"><img class="aligncenter size-medium wp-image-1475" title="谷合さんによるガイド" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7502-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7589/" rel="attachment wp-att-1476"><img class="aligncenter size-medium wp-image-1476" title="懇親会" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7589-300x199.jpg" alt="" width="300" height="199" /></a></p>
-<p><a href="http://www.code4lib.jp/2017/04/1456/286a7649/" rel="attachment wp-att-1477"><img class="aligncenter size-medium wp-image-1477" title="集合写真" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7649-300x200.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7320.jpg" rel="attachment wp-att-1472"><img class="aligncenter size-medium wp-image-1472" title="木達さん講演" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7320-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7265.jpg" rel="attachment wp-att-1473"><img class="aligncenter size-medium wp-image-1473" title="会場風景" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7265-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7446.jpg" rel="attachment wp-att-1478"><img class="aligncenter size-medium wp-image-1478" title="発表風景" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7446-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7376.jpg" rel="attachment wp-att-1479"><img class="aligncenter size-medium wp-image-1479" title="質疑応答" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7376-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7498.jpg" rel="attachment wp-att-1474"><img class="aligncenter size-medium wp-image-1474" title="中之島ツアー" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7498-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7502.jpg" rel="attachment wp-att-1475"><img class="aligncenter size-medium wp-image-1475" title="谷合さんによるガイド" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7502-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7589.jpg" rel="attachment wp-att-1476"><img class="aligncenter size-medium wp-image-1476" title="懇親会" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7589-300x199.jpg" alt="" width="300" height="199" /></a></p>
+<p><a href="http://www.code4lib.jp/assets/uploads/2017/04/286A7649.jpg" rel="attachment wp-att-1477"><img class="aligncenter size-medium wp-image-1477" title="集合写真" src="{{ site.baseurl }}/assets/uploads/2017/04/286A7649-300x200.jpg" alt="" width="300" height="200" /></a></p>
