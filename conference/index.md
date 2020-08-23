@@ -20,7 +20,7 @@ comments: []
 
 <ul>
 <li>日時：2021年9月11日（土）, 9月12日（日）</li>
-<li>会場：未定</li>
+<li>会場：オンライン会議</li>
 <li>Webサイト：<a href="https://wiki.code4lib.jp/wiki/C4ljp2021">https://wiki.code4lib.jp/wiki/C4ljp2021</a></li>
 </ul>
 
