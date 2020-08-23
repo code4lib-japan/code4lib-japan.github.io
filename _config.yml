@@ -2,7 +2,7 @@ repository: code4lib-japan/code4lib-japan.github.io
 #theme: jekyll-theme-cayman
 theme: minima
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Dockerfile', 'docker-compose.yml']
-permalink: /:year/:month/:slug
+permalink: /:year/:month/:slug/
 minima:
   date_format: "%Y年%m月%d日"
 logo: "/assets/Code4Lib_JAPAN_logo.jpg"
