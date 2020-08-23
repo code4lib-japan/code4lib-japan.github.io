@@ -7,3 +7,5 @@ minima:
   date_format: "%Y年%m月%d日"
 logo: "/assets/Code4Lib_JAPAN_logo.jpg"
 logo-alt: Code4Lib JAPAN
+plugins: 
+  - jekyll-redirect-from
