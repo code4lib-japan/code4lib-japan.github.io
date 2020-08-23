@@ -1,10 +1,11 @@
 ## このリポジトリについて
 
-このリポジトリは Code4Lib JAPAN の公式サイト code4lib.jp の再構築のためのリポジトリです。
+このリポジトリは Code4Lib JAPAN の公式サイト code4lib.jp のためのリポジトリです。
 
 変更すべき点や気になる箇所を見つけた方は、 Issue や Pull request によりご報告いただければ幸いです。
 
 サイト全体を Github Pages により構成していますので、ローカル環境でサイト内容をプレビュー確認されたい方は [Jekyll](https://jekyllrb.com)（[日本語訳サイト](https://jekyllrb-ja.github.io/)）をお試しください。
+
 
 ----
 
