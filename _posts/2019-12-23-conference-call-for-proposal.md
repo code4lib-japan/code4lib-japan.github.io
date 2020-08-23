@@ -4,6 +4,7 @@ status: publish
 published: true
 title: "Code4Lib JAPANカンファレンス2020発表募集 （Call For Proposal）"
 slug: "1705"
+permalink: /2019/12/1705/
 date: '2019-12-23 09:00:00 +0000'
 categories:
 - ニュース
