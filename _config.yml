@@ -9,3 +9,5 @@ logo: "/assets/Code4Lib_JAPAN_logo.jpg"
 logo-alt: Code4Lib JAPAN
 plugins: 
   - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
