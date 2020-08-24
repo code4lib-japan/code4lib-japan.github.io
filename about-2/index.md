@@ -3,6 +3,8 @@ layout: page
 status: publish
 published: true
 title: Code4Lib JAPANとは
+redirect_from:
+  - /about/
 slug: "421"
 wordpress_id: 421
 wordpress_url: http://www.code4lib.jp/?page_id=2
