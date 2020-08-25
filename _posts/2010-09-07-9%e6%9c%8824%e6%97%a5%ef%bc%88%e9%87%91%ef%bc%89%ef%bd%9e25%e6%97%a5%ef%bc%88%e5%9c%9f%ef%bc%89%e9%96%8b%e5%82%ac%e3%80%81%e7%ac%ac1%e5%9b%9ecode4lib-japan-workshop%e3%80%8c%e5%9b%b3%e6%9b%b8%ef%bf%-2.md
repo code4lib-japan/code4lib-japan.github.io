@@ -15,8 +15,8 @@ tags: []
 comments: []
 ---
 <div class="section">
-<p><span style="font-weight:bold;">【実施概要】</p>
-<p></span></p>
+<p><span style="font-weight:bold;">【実施概要】</span></p>
+<p></p>
 <p>話題のデジタルアーカイブを図書館で貴方自身の手でつくってみませんか？</p>
 <p>Code4Lib JAPANのワークショップは、実践的な体験学習スタイル。持ち帰ってすぐに図書館サービスに反映できます。第一弾はデジタルアーカイブの構築。レクチャーだけでなく撮影やスキャニングなどのデジタル化からインターネット上のサービスを使って低コストでできるアーカイブシステムの構築を行います。地域の記録を次の時代に伝えるという図書館のミッションを実現していきましょう。</p>
 <ul>
@@ -34,8 +34,8 @@ comments: []
 <li>持ち物：1泊2日分の生活必需品 ※パソコン等の機器類はCode4Lib JAPANにて用意します。</li>
 </ul>
 <p><br></p>
-<p><span style="font-weight:bold;">【プログラム】</p>
-<p></span></p>
+<p><span style="font-weight:bold;">【プログラム】</span></p>
+<p></p>
 <p>◆9月24日（金）</p>
 <p>12:30 受付開始</p>
 <p>13:30 開会（あいさつ）</p>
@@ -62,8 +62,8 @@ comments: []
 <p>14:30 終了</p>
 <p>　　　　　　　　　参加申込： <a href="http://bit.ly/9DHODx" target="_blank">http://bit.ly/9DHODx</a></p>
 <p><br></p>
-<p><span style="font-weight:bold;">【特別プログラム】</p>
-<p></span></p>
+<p><span style="font-weight:bold;">【特別プログラム】</span></p>
+<p></p>
 <p>9月25日（土）には、別途 関東ICT推進NPO連絡協議会の地域連携事業（NPO法人地域資料デジタル化研究会）による『山中湖デジタルアーカイブフォーラム2010』が開催される予定です。こちらは参加費無料で実施しますので、Code4Lib JAPANの参加者のみなさんは、そのまま飯沢耕太郎・土岐小百合両氏の講演やパネルディスカッションに参加することができます。</p>
 <p>（予定）</p>
 <p>15:00 あいさつ</p>
