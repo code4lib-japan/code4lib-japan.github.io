@@ -47,44 +47,10 @@ comments: []
 <p>最後になりましたが、今回のワークショップは大学図書館問題研究会兵庫支部様がスポンサーとなって誘致していただいたものです。当日の準備、運営等、ご協力いただきまして、ありがとうございました。</p>
 <p>また、たくさんの参加者の皆さまにも御礼申し上げます。</p>
 <p>ありがとうございました。</p>
-<p><br></p>
-<p>
-<style type="text/css">
-#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}<br />
-#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}<br />
-#flickr_icon_td {padding:0 5px 0 0 !important;}<br />
-.flickr_badge_image {text-align:center !important;}<br />
-.flickr_badge_image img {border: 1px solid black !important;}<br />
-#flickr_www {display:block; text-align:left; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}<br />
-#flickr_badge_uber_wrapper a:hover,<br />
-#flickr_badge_uber_wrapper a:link,<br />
-#flickr_badge_uber_wrapper a:active,<br />
-#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}<br />
-#flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}<br />
-#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}<br />
-</style></p>
-<p>
-<table cellspacing="10" cellpadding="0" id="flickr_badge_uber_wrapper" border="0">
-<tr>
-<td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><br />
-<table cellspacing="10" id="flickr_badge_wrapper" cellpadding="0" border="0">
-<tr>
-<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=53219053%40N07&set=72157626347561509&context=in%2Fset-72157626347561509%2F"></script></p>
-<td align="center" valign="center" id="flickr_badge_source">
-<p>
-<table cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="10" id="flickr_icon_td"><a href="http://www.flickr.com/photos/53219053@N07/sets/72157626347561509/"><img width="48" align="left" alt="Code4Lib_JAPAN&rsquo;s 第5回Code4Lib_JAPANワークショップ＠大阪 photoset" src="http://farm5.static.flickr.com/4098/buddyicons/53219053@N07.jpg?1282411030#53219053@N07" id="flickr_badge_icon" height="48"></a></td>
-<td id="flickr_badge_source_txt">Code4Lib_JAPAN's <a href="http://www.flickr.com/photos/53219053@N07/sets/72157626347561509/">第5回Code4Lib_JAPANワークショップ＠大阪</a> photoset</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-<p><br><br />
-<br></p>
+<p></p>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/53219053@N07/albums/72157626347561509" title="第5回Code4Lib_JAPANワークショップ＠大阪"><img src="https://live.staticflickr.com/5222/5608438238_dd999dfe01_z.jpg" width="640" height="480" alt="第5回Code4Lib_JAPANワークショップ＠大阪"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<p></p>
 <p>by ふじたまさえ</p>
 </div>
