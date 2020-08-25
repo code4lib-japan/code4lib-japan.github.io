@@ -84,43 +84,9 @@ comments: []
 <p>12:00 解散（参加者）</p>
 <p>12:00-13:30 あとかたづけ</p>
 </blockquote>
-<p>
-<style type="text/css">
-#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}<br />
-#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}<br />
-#flickr_icon_td {padding:0 5px 0 0 !important;}<br />
-.flickr_badge_image {text-align:center !important;}<br />
-.flickr_badge_image img {border: 1px solid black !important;}<br />
-#flickr_www {display:block; text-align:left; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}<br />
-#flickr_badge_uber_wrapper a:hover,<br />
-#flickr_badge_uber_wrapper a:link,<br />
-#flickr_badge_uber_wrapper a:active,<br />
-#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}<br />
-#flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}<br />
-#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}<br />
-</style></p>
-<p>
-<table cellspacing="10" cellpadding="0" id="flickr_badge_uber_wrapper" border="0">
-<tr>
-<td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><br />
-<table cellspacing="10" id="flickr_badge_wrapper" cellpadding="0" border="0">
-<tr>
-<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=53219053%40N07&set=72157625462796807&context=in%2Fset-72157625462796807%2F"></script></p>
-<td align="center" valign="center" id="flickr_badge_source">
-<p>
-<table cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="10" id="flickr_icon_td"><a href="http://www.flickr.com/photos/53219053@N07/sets/72157625462796807/"><img width="48" align="left" alt="Code4Lib_JAPAN&rsquo;s 第3回Code4Lib JAPANワークショップ＠芦原温泉 photoset" src="http://farm5.static.flickr.com/4098/buddyicons/53219053@N07.jpg?1282411030#53219053@N07" id="flickr_badge_icon" height="48"></a></td>
-<td id="flickr_badge_source_txt">Code4Lib_JAPAN's <a href="http://www.flickr.com/photos/53219053@N07/sets/72157625462796807/">第3回Code4Lib JAPANワークショップ＠芦原温泉</a> photoset</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-<p><br></p>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/53219053@N07/albums/72157625462796807" title="第3回Code4Lib JAPANワークショップ＠芦原温泉"><img src="https://live.staticflickr.com/5206/5290450296_3a283ec011_z.jpg" width="640" height="480" alt="第3回Code4Lib JAPANワークショップ＠芦原温泉"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <p>by 江草 由佳</p>
 <p>（2010-12-14 Flickr写真集へのリンク追加、一部表示を整形 by 高久）</p>
 <p>（2010-12-16 受講者の成果を追加）</p>
