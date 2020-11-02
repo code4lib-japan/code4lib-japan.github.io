@@ -20,3 +20,4 @@ Code4Lib JAPANコミュニティが立ち上がった経緯とともに、米国
 著者最終版を参考までに掲載しております。ぜひお読みください！
 
 → [著者最終版 PDF](/assets/uploads/2020/11/JSAI-Vol35-No6-Code4Lib-JAPAN-article.pdf)
+
