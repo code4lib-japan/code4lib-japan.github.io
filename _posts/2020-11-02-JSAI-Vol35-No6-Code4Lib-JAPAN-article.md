@@ -17,7 +17,7 @@ Code4Lib JAPANコミュニティが立ち上がった経緯とともに、米国
 
 これまで生み出されてきた成果とともに、カンファレンス開催継続にあたっての工夫などについても紹介しております。
 
-著者最終版を参考までに掲載しております。ぜひお読みください！
+ご興味をお持ちの方は、以下のフォームよりご連絡ください。
 
-→ [著者最終版 PDF](/assets/uploads/2020/11/JSAI-Vol35-No6-Code4Lib-JAPAN-article.pdf)
+[Code4Lib JAPAN事務局への問い合わせ](https://spreadsheets.google.com/a/code4lib.jp/spreadsheet/viewform?hl=en_US&formkey=dGROM3N1QldxbGpHdExuVV9fbkRHTnc6MQ)
 
