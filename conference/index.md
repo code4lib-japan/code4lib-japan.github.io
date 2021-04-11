@@ -14,7 +14,7 @@ comments: []
 ---
 <h3>Code4Lib JAPAN カンファレンス</h3>
 <p>2013年から、毎年夏に開催しています。</p>
-<p>次回は2021年9月に開催予定です。</p>
+<p>次回は2021年9月に開催します。</p>
 
 <h4>Code4Lib JAPAN カンファレンス2021</h4>
 
@@ -22,6 +22,7 @@ comments: []
 <li>日時：2021年9月11日（土）, 9月12日（日）</li>
 <li>会場：オンライン会議</li>
 <li>Webサイト：<a href="https://wiki.code4lib.jp/wiki/C4ljp2021">https://wiki.code4lib.jp/wiki/C4ljp2021</a></li>
+<li><a href="/2021/04/conference-call-for-proposal/">発表募集</a></li>
 </ul>
 
 <p>&nbsp;</p>
