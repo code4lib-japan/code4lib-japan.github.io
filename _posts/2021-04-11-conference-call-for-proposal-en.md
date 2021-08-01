@@ -6,7 +6,11 @@ comments: []
 ---
 [日本語版はこちら](/2021/04/conference-call-for-proposal/)
 
-<strong style="color: red;">July 19, 2021: The deadline for regular presentation application is extended to July 26 (Monday). The application for global sessions and prefenferences has been closed.</strong>
+<strong style="color: red;">August 1, 2021: The results of the review of presentations have been notified to each applicants, and the accepted presentations have been published on [the program page](https://wiki.code4lib.jp/wiki/C4ljp2021/program) and the [presentation list page](https://wiki.code4lib.jp/wiki/C4ljp2021/global_session).</strong>
+
+<strong>July 26, 2021: The application for regular presentations has been closed. Thank you very much for a lot of applications.</strong>
+
+<strong>July 19, 2021: The deadline for regular presentation application is extended to July 26 (Monday). The application for global sessions and prefenferences has been closed.</strong>
 
 This year's Code4Lib JAPAN Conference will be held online over two days, Saturday, September 11 and Sunday, September 12, 2021, following last year's conference.
 We invite presentations on a variety of initiatives, including software applications in libraries, archives, and museums, and new ideas related to use of community-based library resources and technologies.
@@ -52,13 +56,13 @@ In addition, we will organize a [global session](https://wiki.code4lib.jp/wiki/C
 
 ### Call for proposals
 
-**Application form**: **[https://bit.ly/c4ljp21-proposal](https://bit.ly/c4ljp21-proposal)**
+**Application form**: ~~**[https://bit.ly/c4ljp21-proposal](https://bit.ly/c4ljp21-proposal)**~~ <strong style="color: red;">Closed</strong>
 
 Please use the form above to submit your presentation.
 
 There are four types of presentations: regular presentations, global session presentations, pre-conferences, and lightning talks.
 
-- Regular presentations (in Japanese): Each presentation has 15 minutes of presentation time and 5 minutes of Q&A time. We plan to accept about 8 proposals. See: [last year's presentations](https://wiki.code4lib.jp/wiki/C4ljp2020/presentation#.E7.99.BA.E8.A1.A8.E6.8E.A1.E6.8A.9E.E3.83.AA.E3.82.B9.E3.83.88.EF.BC.888.E4.BB.B6.EF.BC.89)
+- Regular presentations (in Japanese): Each presentation has 15 minutes of presentation time and 5 minutes of Q&A time. ~~We plan to accept about 8 proposals.~~ **Closed** See: [last year's presentations](https://wiki.code4lib.jp/wiki/C4ljp2020/presentation#.E7.99.BA.E8.A1.A8.E6.8E.A1.E6.8A.9E.E3.83.AA.E3.82.B9.E3.83.88.EF.BC.888.E4.BB.B6.EF.BC.89)
 - [Global session](https://wiki.code4lib.jp/wiki/C4ljp2021/global_session) presentations (in English): Each presentation has 15 minutes of presentation time and 5 minutes of Q&A time in the [global session](https://wiki.code4lib.jp/wiki/C4ljp2021/global_session), which will be held around 9 a.m., September 12 in Japan Standard Time. ~~We plan to accept 2-4 proposals.~~ **Closed**
 - [Pre-conferences (Tutorials)](https://wiki.code4lib.jp/wiki/C4ljp2021/preconference): These are sessions where participants can learn new skills related to libraries and technology from each other. You are free to plan your own session (about 2 hours), for example, workshops where participants can actually discuss a specific topic, and hands-on seminar where participants can work with specific technologies and tools. They will be held in the morning, September 11 in Japan Standard Time. ~~We plan to accept up to two proposals.~~ **Closed**
 See: [last year's preconferences](https://wiki.code4lib.jp/wiki/C4ljp2020/preconference)
@@ -82,8 +86,8 @@ In particular, we welcome the following types of presentations:
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
 We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.ま
 
-The deadline for presentation applications is ~~July 15, 2021 (Thursday)~~ **July 26, 2021 (Monday)**.<br/>
-<strong style="color: red;">Only the deadline for regular presentation application is extended. The application for global sessions and prefenferences has been closed.</strong>
+~~The deadline for presentation applications is **July 15, 2021 (Thursday) July 26, 2021 (Monday)**~~.<br/>
+<strong style="color: red;">The application has been closed.</strong>
 
 The program committee will review the presentation applications, taking into consideration their novelty, usefulness, interestingness, and suitability for the conference, and will notify and announce the results of the selection by the end of July.
 
