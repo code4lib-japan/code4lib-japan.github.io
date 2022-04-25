@@ -78,6 +78,7 @@ RSSからAPIまで便利なウェブの仕組みの使い方を学び、一緒�
 </tr>
 </tbody>
 </table>
+<div style="margin-left: 50px;"><p>費用内訳</p>
 <ul>
 <li>ワークショップ参加費＝20,000円</li>
 <li>会場使用料=1,000円</li>

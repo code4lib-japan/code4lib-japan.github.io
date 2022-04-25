@@ -6,6 +6,7 @@
 
 サイト全体を Github Pages により構成していますので、ローカル環境でサイト内容をプレビュー確認されたい方は [Jekyll](https://jekyllrb.com)（[日本語訳サイト](https://jekyllrb-ja.github.io/)）をお試しください。
 
+
 ----
 
 ## About this repository
