@@ -1,6 +1,6 @@
 ## このリポジトリについて
 
-このリポジトリは Code4Lib JAPAN の公式サイト code4lib.jp の再構築のためのリポジトリです。
+このリポジトリは Code4Lib JAPAN の公式サイト code4lib.jp のためのリポジトリです。
 
 変更すべき点や気になる箇所を見つけた方は、 Issue や Pull request によりご報告いただければ幸いです。
 

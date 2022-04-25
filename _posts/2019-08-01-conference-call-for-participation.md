@@ -13,7 +13,7 @@ tags: []
 comments: []
 ---
 <p>第7回となる今回は、<a title="大阪市立中央図書館" href="https://www.oml.city.osaka.lg.jp/index.php?page_id=134" target="_blank" style="border-radius: 5px;">大阪市立中央図書館</a>にて2019年9月7日（土）・8日（日）に開催します。</p>
-<p><a href="http://code4lib.org/" target="_blank" style="border-radius: 5px;">Code4Lib</a> (code for libraries)は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。Code4Lib JAPANは、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。</p>
+<p><a href="https://code4lib.org/" target="_blank" style="border-radius: 5px;">Code4Lib</a> (code for libraries)は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。Code4Lib JAPANは、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。</p>
 <p>昨年のカンファレンスでは、のべ100名以上の参加者にお越し頂き、図書館サービスと情報技術にかかわる先端的でユニークな取り組みが多数紹介されました。今年は、基調講演、ロング発表、ライトニングトーク、プレカンファレンス、アンカンファレンスなどを実施し、多数の取り組みを共有していただくとともに、参加者間の交流を深めます。多数の皆様のご参加をお待ちしております！</p>
 <ul>
 <li>名称：Code4Lib JAPAN カンファレンス 2019</li>
@@ -23,12 +23,12 @@ comments: []
 <li>主催：Code4Lib JAPAN</li>
 <li>協賛： <a target="_blank" href="http://arg-corp.jp/" style="border-radius: 5px;">アカデミック・リソース・ガイド株式会社</a> / <a target="_blank" href="https://calil.jp/" style="border-radius: 5px;">株式会社カーリル</a> / <a target="_blank" href="http://daypla.co.jp/" style="border-radius: 5px;">DAYPLA株式会社</a> / <a target="_blank" href="https://www.meta-info.co.jp/" style="border-radius: 5px;">株式会社メタ・インフォ</a> / （募集中）</li>
 <li>後援： <a target="_blank" href="https://www.infosta.or.jp/" style="border-radius: 5px;"> 一般社団法人情報科学技術協会（INFOSTA）</a> / <a target="_blank" href="http://jsik.jp" style="border-radius: 5px;">情報知識学会</a> / <a target="_blank" href="http://digitalarchivejapan.org/" style="border-radius: 5px;">デジタルアーカイブ学会</a> / <a target="_blank" href="https://www.osmf.jp/" style="border-radius: 5px;">一般社団法人オープンストリートマップ・ファウンデーション・ジャパン</a> / （募集中）</li>
-<li>詳細URL：<a title="http://wiki.code4lib.jp/wiki/C4ljp2019" href="http://wiki.code4lib.jp/wiki/C4ljp2019" style="border-radius: 5px;">http://wiki.code4lib.jp/wiki/C4ljp2019</a></li>
+<li>詳細URL：<a title="https://wiki.code4lib.jp/wiki/C4ljp2019" href="https://wiki.code4lib.jp/wiki/C4ljp2019" style="border-radius: 5px;">https://wiki.code4lib.jp/wiki/C4ljp2019</a></li>
 </ul>
 <div>
 <p><strong>■ プログラム</strong><br />
 当日の発表プログラム等の詳細情報は、以下のWikiページ上に随時掲載してまいります。<br />
-<a href="http://wiki.code4lib.jp/wiki/C4ljp2019">http://wiki.code4lib.jp/wiki/C4ljp2019</a><br />
+<a href="https://wiki.code4lib.jp/wiki/C4ljp2019">https://wiki.code4lib.jp/wiki/C4ljp2019</a><br />
 <span style="color: red">通常発表受付は終了しましたが、ライトニングトークは開催当日に現地にて募集します。</span></p>
 <p><strong>■ プレカンファレンス</strong><br />
 図書館と技術に関わる新しいスキルを参加者同士で学びあうセッションです。 実際に特定のテーマについて議論しあうワークショップから、具体的な技術やツールにあわせて手を動かすようなハンズオンセミナーまで、自由なセッションを企画できます。</p>

@@ -16,19 +16,18 @@ comments: []
 <p><del datetime="2018-07-14T03:44:02+00:00"><strong style="color : red;">2018年7月2日（月）更新：発表応募締め切りを2018年7月13日（金）に延長しました。</strong></del> <strong>ロング発表の応募は締め切りました。多数のご応募ありがとうございました！</strong></p>
 <p>今年のCode4Lib JAPANカンファレンスは長野での初開催！<br />
 第6回目となる今回は、長野市の<a href="http://www.library.pref.nagano.jp/">県立長野図書館</a>にて2018年9月1日（土）・2日（日）に開催します。</p>
-<p><a href="http://code4lib.org/">Code4Lib</a>（code for libraries）は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。<a href="http://www.code4lib.jp/">Code4Lib JAPAN</a>は、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。<br />
-参考:&nbsp;<a href="http://www.code4lib.jp/conference/">過去のカンファレンス開催記録</a></p>
-<p>これまでのカンファレンスでも、システムライブラリアンはもちろんのこと、図書館のサービスに関わりをもっているさまざまな職種の方々から興味深い発表が多数なされ、活発な議論が行われてきました（前回のカンファレンスの内容は<a href="http://wiki.code4lib.jp/wiki/C4ljp2017">こちら</a>からご覧いただけます）。</p>
+<p><a href="https://code4lib.org/">Code4Lib</a>（code for libraries）は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。<a href="https://www.code4lib.jp/">Code4Lib JAPAN</a>は、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。<br />
+参考:&nbsp;<a href="https://www.code4lib.jp/conference/">過去のカンファレンス開催記録</a></p>
+<p>これまでのカンファレンスでも、システムライブラリアンはもちろんのこと、図書館のサービスに関わりをもっているさまざまな職種の方々から興味深い発表が多数なされ、活発な議論が行われてきました（前回のカンファレンスの内容は<a href="https://wiki.code4lib.jp/wiki/C4ljp2017">こちら</a>からご覧いただけます）。</p>
 <p>多数の発表応募をお待ちしております！</p>
-<p><img title="もっと読む..." src="http://www.code4lib.jp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" alt="" /><br />
-<strong>【概要】</strong></p>
+<p><strong>【概要】</strong></p>
 <p>名称：Code4Lib JAPANカンファレンス2018<br />
 日程：2018年9月1日（土）・9月2日（日）<br />
 場所：<a href="http://www.library.pref.nagano.jp/">県立長野図書館</a>（長野県長野市若里1-1-4）<br />
 主催：Code4Lib JAPAN<br />
 協賛：（募集中）<br />
 後援：（募集中）<br />
-詳細URL：<a href="http://wiki.code4lib.jp/wiki/C4ljp2018" target="_blank">http://wiki.code4lib.jp/wiki/C4ljp2018</a></p>
+詳細URL：<a href="https://wiki.code4lib.jp/wiki/C4ljp2018" target="_blank">https://wiki.code4lib.jp/wiki/C4ljp2018</a></p>
 <p><strong>【開催趣旨】</strong></p>
 <p>Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ、<br />
 図書館員や技術者、その他すべての関係者が集い、アイデアやツールを紹介しあい、<br />
@@ -42,7 +41,7 @@ comments: []
 </ul>
 <p>などを実施し、多数の取り組みを共有していただくとともに、参加者間の交流を深めます。</p>
 <p><strong>【発表応募について】</strong></p>
-<p><strong>発表応募フォーム：&nbsp;<a title="http://bit.ly/c4ljp18-proposal" href="http://bit.ly/c4ljp18-proposal" target="_blank">http://bit.ly/c4ljp18-proposal</a></strong> <span style="color: #ff0000;">（締め切りました）</span></p>
+<p><strong>発表応募フォーム：&nbsp;<a title="https://bit.ly/c4ljp18-proposal" href="https://bit.ly/c4ljp18-proposal" target="_blank">https://bit.ly/c4ljp18-proposal</a></strong> <span style="color: #ff0000;">（締め切りました）</span></p>
 <p>発表は上記フォームからご応募ください。</p>
 <p>発表にはロング発表とライトニングトークの2つの形式があります。</p>
 <p>ロング発表にて発表されたい方は、応募フォームにて、１）発表タイトル、２）発表者（お名前、所属、連絡先）、３）発表内容の概要（800字以内）を明記の上、ご応募ください。</p>

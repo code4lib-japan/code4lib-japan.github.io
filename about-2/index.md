@@ -3,6 +3,8 @@ layout: page
 status: publish
 published: true
 title: Code4Lib JAPANとは
+redirect_from:
+  - /about/
 slug: "421"
 wordpress_id: 421
 wordpress_url: http://www.code4lib.jp/?page_id=2
@@ -33,11 +35,10 @@ comments:
 <li>小野 永貴（日本大学）</li>
 <li>小野 亘（国立情報学研究所）</li>
 <li>川嶋 斉（野田市立興風図書館）</li>
-<li>清田 陽司（株式会社LIFULL リッテルラボラトリー）※共同代表</li>
+<li>清田 陽司（株式会社LIFULL AI戦略室、株式会社メディンプル）※共同代表</li>
 <li>阪口 哲男（筑波大学）</li>
-<li>笹沼 崇（龍ケ崎市立中央図書館）</li>
 <li>高久 雅生（筑波大学）</li>
-<li>常川 真央（国立情報学研究所）※共同代表</li>
+<li>常川 真央（中央大学）※共同代表</li>
 <li>林 賢紀（国際農林水産業研究センター）</li>
 <li>丸山 高弘（山中湖情報創造館、NPO法人地域資料デジタル化研究会）</li>
 <li>米田 渉（成田市役所）</li>
