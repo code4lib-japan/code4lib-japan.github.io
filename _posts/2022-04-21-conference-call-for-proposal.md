@@ -43,7 +43,7 @@ comments: []
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
-    <dd>[https://wiki.code4lib.jp/wiki/C4ljp2022](https://wiki.code4lib.jp/wiki/C4ljp2022)</dd>
+    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2022">https://wiki.code4lib.jp/wiki/C4ljp2022</a></dd>
 </dl>
 
 ### 開催趣旨
