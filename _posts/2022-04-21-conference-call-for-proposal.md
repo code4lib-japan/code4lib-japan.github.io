@@ -22,7 +22,7 @@ comments: []
 [Code4Lib](https://code4lib.org/)（code for libraries）は、図書館やアーカイブ、ミュージアムなどに関わるさまざまな人々（ライブラリアン、デザイナー、ハッカー、アーキテクト、etc.）が自発的に集い、技術を通じてさまざまな課題に取り組むという世界的なコミュニティです。
 [Code4Lib JAPAN](https://www.code4lib.jp/)は、Code4Libのムーブメントを日本にも広げていくことを目指して結成され、2013年からは年1回のカンファレンスを開催しています。
 
-参考: [過去のカンファレンス開催記録](https://www.code4lib.jp/conference/)
+参考: [過去のカンファレンス開催記録](/conference/)
 
 図書館などの現場では、新型コロナウィルス感染症という課題を踏まえつつも、地域コミュニティや教育や学習の多様なニーズに対応すべく、様々な取り組みが行われています。
 本カンファレンスが、この状況下に置かれた人々がオンラインを通じてつながり、技術的なノウハウや課題意識を共有する機会を少しでも作ることができるのであれば、それは私達の目的にかなうものです。
@@ -43,7 +43,7 @@ comments: []
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
-    <dd>https://wiki.code4lib.jp/wiki/C4ljp2022</dd>
+    <dd>[https://wiki.code4lib.jp/wiki/C4ljp2022](https://wiki.code4lib.jp/wiki/C4ljp2022)</dd>
 </dl>
 
 ### 開催趣旨
@@ -57,7 +57,7 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 
 ### 発表応募について
 
-**発表応募フォーム**: **https://bit.ly/c4ljp22-proposal**
+**発表応募フォーム**: **[https://bit.ly/c4ljp22-proposal](https://bit.ly/c4ljp22-proposal)**
 
 発表は上記フォームからご応募ください。
 
