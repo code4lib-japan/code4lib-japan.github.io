@@ -37,7 +37,7 @@ Please note that those who apply presentations should be able to use the Zoom en
     <dt>Event format</dt>
     <dd>Online</dd>
     <dt>Website</dt>
-    <dd>[https://wiki.code4lib.jp/wiki/C4ljp2022/en](https://wiki.code4lib.jp/wiki/C4ljp2022/en)</dd>
+    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2022/en">https://wiki.code4lib.jp/wiki/C4ljp2022/en</a></dd>
 </dl>
 
 ### Purpose of the event
