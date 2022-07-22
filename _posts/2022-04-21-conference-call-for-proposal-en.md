@@ -6,6 +6,10 @@ comments: []
 ---
 [日本語版はこちら](/2022/04/conference-call-for-proposal/)
 
+
+**July 22, 2022: The deadline for application is extended to July 31 (Sunday).**
+
+
 This year's Code4Lib JAPAN Conference will be held online over two days, Saturday, September 3rd and Sunday, September 4th, 2022, following last year's conference.
 We invite presentations on a variety of initiatives, including software applications in libraries, archives, and museums, and new ideas related to use of community-based library resources and technologies.
 
@@ -79,7 +83,7 @@ In particular, we welcome the following types of presentations:
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
 We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.ま
 
-The deadline for presentation applications is **July 22, 2022 (Friday)**.
+The deadline for presentation applications is **%%July 22%% July 31, 2022 (Friday)**.
 
 The program committee will review the presentation applications, taking into consideration their novelty, usefulness, interestingness, and suitability for the conference, and will notify and announce the results of the selection by the end of July.
 
