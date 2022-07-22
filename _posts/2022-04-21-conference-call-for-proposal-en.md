@@ -83,7 +83,7 @@ In particular, we welcome the following types of presentations:
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
 We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.ま
 
-The deadline for presentation applications is **<del>July 22</del> July 31, 2022 (Friday)**.
+The deadline for presentation applications is **<del>July 22, 2022 (Friday)</del> July 31, 2022 (Sunday)**.
 
 The program committee will review the presentation applications, taking into consideration their novelty, usefulness, interestingness, and suitability for the conference, and will notify and announce the results of the selection by the end of July.
 
