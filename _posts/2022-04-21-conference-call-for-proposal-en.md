@@ -7,7 +7,9 @@ comments: []
 [日本語版はこちら](/2022/04/conference-call-for-proposal/)
 
 
-**July 22, 2022: The deadline for application is extended to July 31 (Sunday).**
+**August 2, 2022: The deadline for application is closed.**
+
+<del>**July 22, 2022: The deadline for application is extended to July 31 (Sunday).**</del>
 
 
 This year's Code4Lib JAPAN Conference will be held online over two days, Saturday, September 3rd and Sunday, September 4th, 2022, following last year's conference.
@@ -54,7 +56,7 @@ In addition, we will organize a [global session](https://wiki.code4lib.jp/wiki/C
 
 ### Call for proposals
 
-**Application form**: **[https://bit.ly/c4ljp22-proposal](https://bit.ly/c4ljp22-proposal)**
+<del>**Application form**: **[https://bit.ly/c4ljp22-proposal](https://bit.ly/c4ljp22-proposal)**</del>
 
 Please use the form above to submit your presentation.
 
