@@ -13,7 +13,9 @@ comments: []
 [English version is here](/2022/04/conference-call-for-proposal-en/).
 
 
-**2022年7月22日: 発表応募〆切を7月31日（日）に延長しました。**
+**2022年8月2日: 発表募集を締め切りました。**
+
+**<del>2022年7月22日: 発表応募〆切を7月31日（日）に延長しました。</del>**
 
 
 今年のCode4Lib JAPANカンファレンスは、2022年9月3日（土）・4日（日）の2日間にオンライン開催します。
@@ -61,7 +63,7 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 
 ### 発表応募について
 
-**発表応募フォーム**: **[https://bit.ly/c4ljp22-proposal](https://bit.ly/c4ljp22-proposal)**
+<del>**発表応募フォーム**: **[https://bit.ly/c4ljp22-proposal](https://bit.ly/c4ljp22-proposal)**</del>
 
 発表は上記フォームからご応募ください。
 
