@@ -6,6 +6,12 @@ comments: []
 ---
 [日本語版はこちら](/2022/04/conference-call-for-proposal/)
 
+
+**August 2, 2022: The deadline for application is closed.**
+
+<del>**July 22, 2022: The deadline for application is extended to July 31 (Sunday).**</del>
+
+
 This year's Code4Lib JAPAN Conference will be held online over two days, Saturday, September 3rd and Sunday, September 4th, 2022, following last year's conference.
 We invite presentations on a variety of initiatives, including software applications in libraries, archives, and museums, and new ideas related to use of community-based library resources and technologies.
 
@@ -16,7 +22,7 @@ Please feel free to present your work.
 [Code4Lib](https://code4lib.org/) (code for libraries) is a volunteer-driven collective of hackers, designers, architects, curators, catalogers, artists and instigators from around the world, who largely work for and with libraries, archives and museums on technology stuff.
 [Code4Lib JAPAN](https://www.code4lib.jp/) was established with the aim of spreading the Code4Lib movement in Japan in 2010, and has held annual conferences since 2013.
 
-See: [Past conferences](https://www.code4lib.jp/conference/)
+See: [Past conferences](/conference/)
 
 Libraries and other sites continue to make various efforts to respond to the issues on COVID-19.
 If this conference can create even a small opportunity for people in this situation to connect online and share their technical know-how and awareness of issues, it will serve our purpose.
@@ -37,7 +43,7 @@ Please note that those who apply presentations should be able to use the Zoom en
     <dt>Event format</dt>
     <dd>Online</dd>
     <dt>Website</dt>
-    <dd>https://wiki.code4lib.jp/wiki/C4ljp2022/en</dd>
+    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2022/en">https://wiki.code4lib.jp/wiki/C4ljp2022/en</a></dd>
 </dl>
 
 ### Purpose of the event
@@ -50,7 +56,7 @@ In addition, we will organize a [global session](https://wiki.code4lib.jp/wiki/C
 
 ### Call for proposals
 
-**Application form**: **https://bit.ly/c4ljp22-proposal**
+<del>**Application form**: **[https://bit.ly/c4ljp22-proposal](https://bit.ly/c4ljp22-proposal)**</del>
 
 Please use the form above to submit your presentation.
 
@@ -79,7 +85,7 @@ In particular, we welcome the following types of presentations:
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
 We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.ま
 
-The deadline for presentation applications is **July 22, 2022 (Friday)**.
+The deadline for presentation applications is **<del>July 22, 2022 (Friday)</del> July 31, 2022 (Sunday)**.
 
 The program committee will review the presentation applications, taking into consideration their novelty, usefulness, interestingness, and suitability for the conference, and will notify and announce the results of the selection by the end of July.
 

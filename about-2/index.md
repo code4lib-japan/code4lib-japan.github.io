@@ -31,22 +31,22 @@ comments:
 <h4>Code4Lib JAPANコアメンバー</h4>
 <ul>
 <li>江草 由佳（国立教育政策研究所）※共同代表</li>
-<li>岡本 真（アカデミック・リソース・ガイド株式会社、NPO法人横浜コミュニティデザイン・ラボ）※事務局長</li>
-<li>小野 永貴（日本大学）</li>
-<li>小野 亘（国立情報学研究所）</li>
+<li>岡本 真（アカデミック・リソース・ガイド株式会社（arg））※事務局長</li>
+<li>小野 永貴（筑波大学）</li>
+<li>小野 亘（東京大学）</li>
 <li>川嶋 斉（野田市立興風図書館）</li>
-<li>清田 陽司（株式会社LIFULL AI戦略室、株式会社メディンプル）※共同代表</li>
+<li>清田 陽司（株式会社LIFULL、株式会社FiveVai）※共同代表</li>
 <li>阪口 哲男（筑波大学）</li>
 <li>高久 雅生（筑波大学）</li>
 <li>常川 真央（中央大学）※共同代表</li>
 <li>林 賢紀（国際農林水産業研究センター）</li>
-<li>丸山 高弘（山中湖情報創造館、NPO法人地域資料デジタル化研究会）</li>
-<li>米田 渉（成田市役所）</li>
+<li>丸山 高弘（山中湖情報創造館、八ヶ岳コモンズ、NPO法人地域資料デジタル化研究会）</li>
+<li>米田 渉（成田市立図書館）</li>
 </ul>
 <p>※なお、上記メンバーは個人として活動しています。</p>
 <h4>事務局</h4>
 <ul>
-<li>岡本 真（アカデミック・リソース・ガイド株式会社、NPO法人横浜コミュニティデザイン・ラボ）※事務局長</li>
+<li>岡本 真（アカデミック・リソース・ガイド株式会社（arg））※事務局長</li>
 <li>川上 努（G-Links）</li>
 </ul>
 <h3>連絡先</h3>
@@ -56,7 +56,6 @@ comments:
 〒231-0012 横浜市中区相生町3-61泰生ビル さくらWORKS＜関内＞407</address>
 <address>アカデミック・リソース・ガイド株式会社内<br />
 Code４Lib JAPAN<br />
-電話番号：070-5467-7032（事務局長：岡本）<br />
 <img src="{{ site.baseurl }}/assets/uploads/2010/11/info_code4lib_mail2.gif" alt="メールアドレス" /></address>
 <h3>活動内容</h3>
 <p>現在、以下の活動を行っています：</p>
@@ -71,7 +70,7 @@ Code４Lib JAPAN<br />
 <h3>Code4Lib JAPAN運営サイト</h3>
 <h4><a href="http://wiki.code4lib.jp/">Code4Lib JAPAN ウィキ</a></h4>
 <p>Code4Lib JAPANのウィキです。Code4Lib JAPAN カンファレンスの情報などを提供しています。また、Code4Lib JAPANコミュニティで共有したい情報を自由に書き込める場としても提供しています。</p>
-<h4><a href="https://join.slack.com/t/c4ljp/shared_invite/enQtNDI4NDg0NzQ2ODA3LTM4ZTI5NTk1M2M3NGU2ZjkyNmNhNzg0NmJjYTg0OWE1Njg2MDI5MDcxZmIyYjE4NzdiZGRkYjdkYmNjNjZhNTg">Code4Lib JAPAN Slack</a></h4>
+<h4><a href="https://join.slack.com/t/c4ljp/shared_invite/zt-5gucr6lz-dWeD_1oVBoPOfLi1v5UFdw">Code4Lib JAPAN Slack</a></h4>
 <p>Code4Lib JAPAN のSlackです。コミュニティの情報交換の場として提供しています。ぜひ、登録して交流しましょう。</p>
 <h4><a href="https://www.facebook.com/Code4LibJAPAN/">Code4Lib JAPAN Facebookページ</a></h4>
 <p>Code4Lib JAPANのFacebookページです。主にCode4Lib JAPANカンファレンスのイベント告知などを行なっています。</p>

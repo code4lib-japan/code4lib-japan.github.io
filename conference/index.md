@@ -20,7 +20,7 @@ comments: []
 
 - 日時: 2022年9月3日（土），9月4日（日）
 - 会場: オンライン会議
-- Webサイト: https://wiki.code4lib.jp/wiki/C4ljp2022
+- Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2022](https://wiki.code4lib.jp/wiki/C4ljp2022)
   - [発表募集](/2022/04/conference-call-for-proposal/)
 
 <p>&nbsp;</p>
