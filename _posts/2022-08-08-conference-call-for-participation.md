@@ -14,9 +14,9 @@ comments: []
 
 昨年のカンファレンスは、オンライン開催ながら過去最高の155名以上の参加者にお越し頂き、図書館サービスと情報技術にかかわる先端的でユニークな取り組みが多数紹介されました。
 
-第10回目の開催となる今年のカンファレンスは、ご応募いただいた7件の[通常発表](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E9.80.9A.E5.B8.B8.E7.99.BA.E8.A1.A8.EF.BC.887.E4.BB.B6.EF.BC.89)のほか、[基調講演](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E5.9F.BA.E8.AA.BF.E8.AC.9B.E6.BC.94)、[特別セッション企画](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E7.89.B9.E5.88.A5.E3.82.BB.E3.83.83.E3.82.B7.E3.83.A7.E3.83.B3)、[プレカンファレンス（チュートリアル）](https://wiki.code4lib.jp/wiki/C4ljp2022/preconference#.E3.83.97.E3.83.AC.E3.82.AB.E3.83.B3.E3.83.95.E3.82.A1.E3.83.AC.E3.83.B3.E3.82.B9)、[ライトニングトーク](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E3.83.A9.E3.82.A4.E3.83.88.E3.83.8B.E3.83.B3.E3.82.B0.E3.83.88.E3.83.BC.E3.82.AF.E7.99.BA.E8.A1.A8)（当日募集）など、魅力的なコンテンツが盛りだくさんです。
+第10回目の開催となる今年のカンファレンスは、ご応募いただいた7件の[通常発表](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E9.80.9A.E5.B8.B8.E7.99.BA.E8.A1.A8.E3.82.BB.E3.83.83.E3.82.B7.E3.83.A7.E3.83.B3)のほか、[基調講演](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E5.9F.BA.E8.AA.BF.E8.AC.9B.E6.BC.94)、[特別セッション企画](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E7.89.B9.E5.88.A5.E3.82.BB.E3.83.83.E3.82.B7.E3.83.A7.E3.83.B3)、[プレカンファレンス（チュートリアル）](https://wiki.code4lib.jp/wiki/C4ljp2022/preconference)、[ライトニングトーク](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E3.83.A9.E3.82.A4.E3.83.88.E3.83.8B.E3.83.B3.E3.82.B0.E3.83.88.E3.83.BC.E3.82.AF.E7.99.BA.E8.A1.A8)（当日募集）など、魅力的なコンテンツが盛りだくさんです。
 
-また、昨年に引き続き、音声認識ツール（UDトーク）および自動翻訳を用いた日本語・英語での字幕付与を試行し、海外との交流の創出や、身体的なハンディキャップをお持ちの方々への情報保障を目指します。
+また、昨年に引き続き、音声認識ツール（UDトーク）を用いた字幕付与を試行し、新たな参加者コミュニケーションや身体的なハンディキャップをお持ちの方々への情報保障を目指します。
 
 当日はZoomおよびSlackなどのオンラインツールを使用しての開催となります。ご参加される方は、Zoom等の環境を利用できることが前提となります。[オンライン参加の手引き](https://wiki.code4lib.jp/wiki/C4ljp2022/online)を公開しておりますので、ご覧ください。
 
