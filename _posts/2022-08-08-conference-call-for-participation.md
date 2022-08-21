@@ -32,7 +32,7 @@ comments: []
     <dt>主催</dt>
     <dd><a href="https://www.code4lib.jp/">Code4Lib JAPAN</a></dd>
     <dt>形式</dt>
-    <dd>オンライン開催（参加方法については発表お申し込み後、折り返しお知らせします）</dd>
+    <dd>オンライン開催（参加申込は本ページ下部よりお願いします）</dd>
     <dt>参加費</dt>
     <dd>無料</dd>
     <dt>協賛</dt>
