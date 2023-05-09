@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Call For Proposals - Code4Lib JAPAN Conference 2022"
+title: "Call For Proposals - Code4Lib JAPAN Conference 2023"
 tags: []
 comments: []
 ---
-[日本語版はこちら](/2023/04/conference-call-for-proposal/)
+[日本語版はこちら](/2023/05/conference-call-for-proposal/)
 
 This year's Code4Lib JAPAN Conference will be held online over two days, Saturday, September 2nd and Sunday, September 3rd, 2023, following last year's conference.
 We invite presentations on a variety of initiatives, including software applications in libraries, archives, and museums, and new ideas related to use of community-based library resources and technologies.
