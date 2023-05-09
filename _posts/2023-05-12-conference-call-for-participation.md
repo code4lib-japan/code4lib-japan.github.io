@@ -31,7 +31,7 @@ comments: []
 
 <dl class="dl-horizontal">
     <dt>名称</dt>
-    <dd>Code4Lib JAPANカンファレンス2022</dd>
+    <dd>Code4Lib JAPANカンファレンス2023</dd>
     <dt>日程</dt>
     <dd>2023年9月2日（土）・3日（日）</dd>
     <dt>形式</dt>
@@ -39,7 +39,7 @@ comments: []
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
-    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2022">https://wiki.code4lib.jp/wiki/C4ljp2022</a></dd>
+    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2023">https://wiki.code4lib.jp/wiki/C4ljp2023</a></dd>
 </dl>
 
 ### 開催趣旨
@@ -49,15 +49,14 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 2013年に初めて開催されて以来、毎年開催されてきたカンファレンスでは、図書館サービスと情報技術にかかわる先端的でユニークな取り組みが多数紹介されるとともに、過去のカンファレンスでの議論が、デジタルアーカイブ、書影データベースの整備などの新たな展開につながるという成果も得られております。
 
 今年も、基調講演、通常発表、プレカンファレンス（チュートリアル）、ライトニングトーク、アンカンファレンスなどの多様なセッションを実施し、多数の取り組みを共有していただくとともに、参加者間の交流を深めます。
-また、昨年から続く試みとして、英語を用いた[グローバルセッション](https://wiki.code4lib.jp/wiki/C4ljp2022/global_session)を企画します。
 
 ### 発表応募について
 
-<del>**発表応募フォーム**: **[https://bit.ly/c4ljp23-proposal](https://bit.ly/c4ljp23-proposal)**</del>
+**発表応募フォーム**: **[https://bit.ly/c4ljp23-proposal](https://bit.ly/c4ljp23-proposal)**
 
 発表は上記フォームからご応募ください。
 
-発表には通常発表、グローバルセッション発表、プレカンファレンス、ライトニングトークの4つの形式があります。
+発表には通常発表、プレカンファレンス、ライトニングトークの3つの形式があります。
 
 - 通常発表：15分の発表時間と5分の質疑応答時間が与えられます。8件程度の採択を予定しています。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E9.80.9A.E5.B8.B8.E7.99.BA.E8.A1.A8.EF.BC.887.E4.BB.B6.EF.BC.89)
 - [プレカンファレンス（チュートリアル）](https://wiki.code4lib.jp/wiki/C4ljp2023/preconference): 図書館と技術に関わる新しいスキルを参加者同士で学びあうセッションです。実際に特定のテーマについて議論しあうワークショップから、具体的な技術やツールにあわせて手を動かすようなハンズオンセミナーまで、自由なセッション（2時間程度）を企画できます。9月3日（土）午前中の開催を予定しています。最大で2件まで採択予定です。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2022/preconference)
@@ -104,4 +103,9 @@ e-mail: code4lib-japan-2023 at googlegroups.com
 <img src="https://gist.githubusercontent.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp21-0911-day1.png" width="400">
 <p></p>
 <img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/798b99d93ccf38852cf0f66aca678b7a83173861/c4ljp21-0911-day2.jpg" width="400">
+<p></p>
+<img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0620-day1.jpg" width="400">
+<p></p>
+<img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0621-day2.jpg" width="400">
 </div>
+
