@@ -18,7 +18,7 @@ Libraries and other sites continue to make various efforts to respond to the iss
 If this conference can create even a small opportunity for people in this situation to connect online and share their technical know-how and awareness of issues, it will serve our purpose.
 Of course, as in the past conferences, the Code4Lib JAPAN welcomes presentations on a wide variety of issues and technical topics.
 
-The event will be held using Zoom and Slack.
+The event will be held using Zoom and Discord.
 Please note that those who apply presentations should be able to use the Zoom environment.
 
 ### Conference overview
@@ -78,10 +78,10 @@ The program committee will review the presentation applications, taking into con
 ### Code4Lib JAPAN Conference 2023 Program Committee
 
 - Kosuke Tanabe (National Institute for Materials Science; Program chair)
-- Masao Takaku (University of Tsukuba)
-- Takanori Hayashi (Japan International Research Center for Agricultural Sciences)
 - Takayuki Ako (Tokyo National Museum)
 - Tetsuo Sakaguchi (University of Tsukuba)
+- Masao Takaku (University of Tsukuba)
+- Takanori Hayashi (Japan International Research Center for Agricultural Sciences)
 - Yuhiro Mizunuma (Momoyama Gakuin University)
 
 **Contacts**
