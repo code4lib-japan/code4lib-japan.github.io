@@ -69,7 +69,7 @@ In particular, we welcome the following types of presentations:
 - New ideas related to the use of community-based library resources and technologies
 
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
-We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.ま
+We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.
 
 The deadline for presentation applications is **<del>July 23, 2023 (Sunday)**.
 
