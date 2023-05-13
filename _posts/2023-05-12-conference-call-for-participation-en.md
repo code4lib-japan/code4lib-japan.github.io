@@ -79,7 +79,7 @@ The program committee will review the presentation applications, taking into con
 
 - Kosuke Tanabe (National Institute for Materials Science; Program chair)
 - Masao Takaku (University of Tsukuba)
-- Takanori Hayashi (University of Tsukuba)
+- Takanori Hayashi (Japan International Research Center for Agricultural Sciences)
 - Takayuki Ako (Tokyo National Museum)
 - Tetsuo Sakaguchi (University of Tsukuba)
 - Yuhiro Mizunuma (Momoyama Gakuin University)
