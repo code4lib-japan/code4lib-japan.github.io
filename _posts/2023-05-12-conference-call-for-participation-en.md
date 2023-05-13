@@ -27,7 +27,7 @@ Please note that those who apply presentations should be able to use the Zoom en
     <dt>Event name</dt>
     <dd>Code4Lib JAPAN Conference 2023</dd>
     <dt>Dates</dt>
-    <dd>September 2rd (Sat) - 3rd (Sun), 2023 (in Japan Standard Time)</dd>
+    <dd>September 2nd (Sat) - 3rd (Sun), 2023 (in Japan Standard Time)</dd>
     <dt>Event format</dt>
     <dd>Online</dd>
     <dt>Website</dt>
