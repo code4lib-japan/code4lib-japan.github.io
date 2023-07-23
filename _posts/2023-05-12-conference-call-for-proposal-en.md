@@ -6,6 +6,8 @@ comments: []
 ---
 [日本語版はこちら](/2023/05/conference-call-for-proposal/)
 
+**July 23, 2023: The deadline for application is extended to July 30 (Sunday).**
+
 This year's Code4Lib JAPAN Conference will be held online over two days, Saturday, September 2nd and Sunday, September 3rd, 2023, following last year's conference.
 We invite presentations on a variety of initiatives, including software applications in libraries, archives, and museums, and new ideas related to use of community-based library resources and technologies.
 
@@ -71,7 +73,7 @@ In particular, we welcome the following types of presentations:
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
 We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.
 
-The deadline for presentation applications is **<del>July 23, 2023 (Sunday)**.
+The deadline for presentation applications is **<s>July 23</s> July 30, 2023 (Sunday)**.
 
 The program committee will review the presentation applications, taking into consideration their novelty, usefulness, interestingness, and suitability for the conference, and will notify and announce the results of the selection by the end of July.
 
@@ -99,4 +101,3 @@ e-mail: code4lib-japan-2023 at googlegroups.com
 <p></p>
 <img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0621-day2.jpg" width="400">
 </div>
-
