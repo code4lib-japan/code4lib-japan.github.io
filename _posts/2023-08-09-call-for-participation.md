@@ -38,7 +38,7 @@ comments: []
     <dt>協賛</dt>
     <dd><a href="https://arg-corp.jp/">アカデミック・リソース・ガイド株式会社（arg）</a> / <a href="https://calil.jp/">株式会社カーリル</a> / <a href="https://daypla.co.jp/">DAYPLA株式会社</a> / <a href="https://www.meta-info.co.jp/">株式会社メタ・インフォ</a></dd>
     <dt>後援</dt>
-    <dd>デジタルアーカイブ学会</dd>
+    <dd>情報知識学会 / デジタルアーカイブ学会</dd>
     <dt>詳細URL</dt>
     <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2023">https://wiki.code4lib.jp/wiki/C4ljp2023</a></dd>
 </dl>
