@@ -70,8 +70,8 @@ Code４Lib JAPAN<br />
 <h3>Code4Lib JAPAN運営サイト</h3>
 <h4><a href="http://wiki.code4lib.jp/">Code4Lib JAPAN ウィキ</a></h4>
 <p>Code4Lib JAPANのウィキです。Code4Lib JAPAN カンファレンスの情報などを提供しています。また、Code4Lib JAPANコミュニティで共有したい情報を自由に書き込める場としても提供しています。</p>
-<h4><a href="https://join.slack.com/t/c4ljp/shared_invite/zt-5gucr6lz-dWeD_1oVBoPOfLi1v5UFdw">Code4Lib JAPAN Slack</a></h4>
-<p>Code4Lib JAPAN のSlackです。コミュニティの情報交換の場として提供しています。ぜひ、登録して交流しましょう。</p>
+<h4><a href="https://discord.gg/KkknHHHYmW">Code4Lib JAPAN Discord</a></h4>
+<p>Code4Lib JAPAN のDiscordです。コミュニティの情報交換の場として提供しています。ぜひ、登録して交流しましょう。</p>
 <h4><a href="https://www.facebook.com/Code4LibJAPAN/">Code4Lib JAPAN Facebookページ</a></h4>
 <p>Code4Lib JAPANのFacebookページです。主にCode4Lib JAPANカンファレンスのイベント告知などを行なっています。</p>
 <h4><a href="http://groups.google.com/group/code4lib-japan">Code4Lib JAPAN | Google Group</a></h4>
