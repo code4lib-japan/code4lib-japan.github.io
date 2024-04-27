@@ -79,8 +79,6 @@ The program committee will review the presentation applications, taking into con
 - Kosuke Tanabe (National Institute for Materials Science)
 - Mao Tsunekawa (Chuo University)
 
-Reitaku University
-- 
 **Contacts**
 
 e-mail: code4lib-japan-2024 at googlegroups.com
