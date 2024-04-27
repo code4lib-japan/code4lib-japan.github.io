@@ -22,10 +22,12 @@ See: [Past conferences](/conference/)
     <dt>Dates</dt>
     <dd>September 7th (Sat) - 8th (Sun), 2024 (in Japan Standard Time)</dd>
     <dt>Venue</dt>
-    <dd>Reitaku University</dd>
+    <dd>Reitaku University (TBD)</dd>
     <dt>Location and Access</dt>
-    <dd><a href="https://www.reitaku-u.ac.jp/en/about/location/">Location</a>. Take the JR Joban Line local service (directly linked to the Metro Chiyoda Line), and get off at Minamikashiwa Station. Take the Tobu bus (Bus Stop #1) at the East Exit; the ride takes about 4 minutes. Get off at Reitaku Daigaku Mae Station. From Minamikashiwa Station, it takes 13 minutes on foot.
+    <dd><a rel="nofollow" class="external text" href="https://www.reitaku-u.ac.jp/en/about/location/">Location</a>. Take the JR Joban Line local service (directly linked to the Metro Chiyoda Line), and get off at Minamikashiwa Station. Take the Tobu bus (Bus Stop #1) at the East Exit; the ride takes about 4 minutes. Get off at Reitaku Daigaku Mae Station. From Minamikashiwa Station, it takes 13 minutes on foot.
       </dd>
+    <dt>Format</dt>
+    <dd>Offline ()</dd>
     <dt>Website</dt>
     <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2024/en">https://wiki.code4lib.jp/wiki/C4ljp2024/en</a></dd>
 </dl>
