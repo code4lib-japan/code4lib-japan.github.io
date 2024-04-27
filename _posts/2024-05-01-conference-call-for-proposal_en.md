@@ -22,9 +22,10 @@ See: [Past conferences](/conference/)
     <dt>Dates</dt>
     <dd>September 7th (Sat) - 8th (Sun), 2024 (in Japan Standard Time)</dd>
     <dt>Venue</dt>
-    <dd>Reitaku University<br>Take the JR Joban Line local service (directly linked to the Metro Chiyoda Line), and get off at Minamikashiwa Station. Take the Tobu bus (Bus Stop #1) at the East Exit; the ride takes about 4 minutes. Get off at Reitaku Daigaku Mae Station. From Minamikashiwa Station, it takes 13 minutes on foot.<br>
+    <dd>Reitaku University</dd>
+    <dt>Location and Access</dt>
+    <dd><a href="https://www.reitaku-u.ac.jp/en/about/location/">Location</a>. Take the JR Joban Line local service (directly linked to the Metro Chiyoda Line), and get off at Minamikashiwa Station. Take the Tobu bus (Bus Stop #1) at the East Exit; the ride takes about 4 minutes. Get off at Reitaku Daigaku Mae Station. From Minamikashiwa Station, it takes 13 minutes on foot.
       </dd>
-    
     <dt>Website</dt>
     <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2024/en">https://wiki.code4lib.jp/wiki/C4ljp2024/en</a></dd>
 </dl>
@@ -70,10 +71,11 @@ The program committee will review the presentation applications, taking into con
 ### Code4Lib JAPAN Conference 2024 Program Committee
 
 - Takanori Hayashi (Japan International Research Center for Agricultural Sciences; Program chair)
+- Nobue Koyasu (Chiba Prefectural Library)
 - Tetsuo Sakaguchi (University of Tsukuba)
 - Masao Takaku (University of Tsukuba)
 - Kosuke Tanabe (National Institute for Materials Science)
-
+- Mao Tsunekawa (Chuo University)
 
 Reitaku University
 - 
