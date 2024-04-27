@@ -22,7 +22,7 @@ See: [Past conferences](/conference/)
     <dt>Dates</dt>
     <dd>September 7th (Sat) - 8th (Sun), 2024 (in Japan Standard Time)</dd>
     <dt>Venue</dt>
-    <dd>Reitaku University<brTake the JR Joban Line local service (directly linked to the Metro Chiyoda Line), and get off at Minamikashiwa Station. Take the Tobu bus (Bus Stop #1) at the East Exit; the ride takes about 4 minutes. Get off at Reitaku Daigaku Mae Station. From Minamikashiwa Station, it takes 13 minutes on foot.<br>
+    <dd>Reitaku University<br>Take the JR Joban Line local service (directly linked to the Metro Chiyoda Line), and get off at Minamikashiwa Station. Take the Tobu bus (Bus Stop #1) at the East Exit; the ride takes about 4 minutes. Get off at Reitaku Daigaku Mae Station. From Minamikashiwa Station, it takes 13 minutes on foot.<br>
       </dd>
     
     <dt>Website</dt>
@@ -90,5 +90,5 @@ e-mail: code4lib-japan-2024 at googlegroups.com
 <p></p>
 <img src="https://gist.githubusercontent.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0620-day1.jpg" width="400">
 <p></p>
-<img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0621-day2.jpg" width="400">
+<img src="https://gist.githubusercontent.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0621-day2.jpg" width="400">
 </div>
