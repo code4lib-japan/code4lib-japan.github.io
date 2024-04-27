@@ -36,11 +36,11 @@ comments: []
     <dd>Code4Lib JAPANカンファレンス2024</dd>
     <dt>日程</dt>
     <dd>2024年9月7日（土）・8日（日）</dd>
-<dt>場所</dt>
-<dd>麗澤大学 柏キャンパス（予定）</dd>
-<dd>〒277-8686 千葉県柏市光ヶ丘2-1-1</dd>
-<dd>（JR常磐線各駅停車（東京メトロ千代田線直通） 南柏駅 東口より東武バス1番のりばから乗車で約4分 「麗澤大学前」下車）</dd>
-<dd><a rel="nofollow" class="external text" href="https://www.reitaku-u.ac.jp/about/access/">アクセス</a></dd>
+    <dt>場所</dt>
+    <dd>麗澤大学 柏キャンパス（予定）</dd>
+    <dd>〒277-8686 千葉県柏市光ヶ丘2-1-1</dd>
+    <dd>（JR常磐線各駅停車（東京メトロ千代田線直通） 南柏駅 東口より東武バス1番のりばから乗車で約4分 「麗澤大学前」下車）</dd>
+    <dd><a rel="nofollow" class="external text" href="https://www.reitaku-u.ac.jp/about/access/">アクセス</a></dd>
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
@@ -64,7 +64,7 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 発表には通常発表、プレカンファレンス、ライトニングトークの3つの形式があります。
 
 - 通常発表：15分の発表時間と5分の質疑応答時間が与えられます。8件程度の採択を予定しています。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2023/presentation#.E9.80.9A.E5.B8.B8.E7.99.BA.E8.A1.A8.EF.BC.887.E4.BB.B6.EF.BC.89)
-- [プレカンファレンス（チュートリアル）](https://wiki.code4lib.jp/wiki/C4ljp2024/preconference): 図書館と技術に関わる新しいスキルを参加者同士で学びあうセッションです。実際に特定のテーマについて議論しあうワークショップから、具体的な技術やツールにあわせて手を動かすようなハンズオンセミナーまで、自由なセッション（2時間程度）を企画できます。9月3日（土）午前中の開催を予定しています。最大で2件まで採択予定です。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2022/preconference)
+- プレカンファレンス（チュートリアル）: 図書館と技術に関わる新しいスキルを参加者同士で学びあうセッションです。実際に特定のテーマについて議論しあうワークショップから、具体的な技術やツールにあわせて手を動かすようなハンズオンセミナーまで、自由なセッション（2時間程度）を企画できます。9月3日（土）午前中の開催を予定しています。最大で2件まで採択予定です。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2022/preconference)
 - ライトニングトーク: 1件あたり5分の発表時間が与えられます。開催当日に募集します。参考: [昨年の発表内容](https://wiki.code4lib.jp/wiki/C4ljp2022/presentation#.E3.83.A9.E3.82.A4.E3.83.88.E3.83.8B.E3.83.B3.E3.82.B0.E3.83.88.E3.83.BC.E3.82.AF.E7.99.BA.E8.A1.A8)
 
 通常発表、プレカンファレンスにて発表されたい方は、発表応募フォームにて以下の情報を明記の上、ご応募ください。
@@ -73,9 +73,7 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 2. 発表タイトル
 3. 発表概要（400字以内）
 4. 録画・発表資料公開の可否
-5. 情報通信環境
-6. オンライン会議の経験
-7. 発表へのサポートの必要について
+5. 発表へのサポートの必要について
 
 とくに、以下のような発表を歓迎します：
 - 図書館システムまたは業務システムに関わる新しいソフトウェアやアイデア
@@ -85,7 +83,7 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 また、発表内容は事例報告、実践報告、研究発表、アイデア共有等、どのような内容でも構いません。
 上記に限ることなく自由な発想による発表の応募をお待ちしています。
 
-発表応募〆切は **2024年6月23日（日）**とします。
+発表応募〆切は **2024年6月23日（日）** とします。
 
 プログラム委員会は、発表応募内容の新規性、有用性、面白さ、会議への適合性を考慮し、審査を行い、7月末までに採択結果を通知・公表します。
 
@@ -107,9 +105,9 @@ e-mail: code4lib-japan-2024 at googlegroups.com
 <div>
 <img src="https://gist.githubusercontent.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp21-0911-day1.png" width="400">
 <p></p>
-<img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/798b99d93ccf38852cf0f66aca678b7a83173861/c4ljp21-0911-day2.jpg" width="400">
+<img src="https://gist.githubusercontent.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/798b99d93ccf38852cf0f66aca678b7a83173861/c4ljp21-0911-day2.jpg" width="400">
 <p></p>
-<img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0620-day1.jpg" width="400">
+<img src="https://gist.githubusercontent.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0620-day1.jpg" width="400">
 <p></p>
-<img src="https://gist.github.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0621-day2.jpg" width="400">
+<img src="https://gist.githubusercontent.com/masao/db5c11b83faec4606f5e4987c11837b9/raw/57852b77e4f67c9313855cd086b63bd612bd6b1f/c4ljp20-0621-day2.jpg" width="400">
 </div>
