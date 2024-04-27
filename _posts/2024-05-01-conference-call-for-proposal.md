@@ -38,9 +38,11 @@ comments: []
     <dd>2024年9月7日（土）・8日（日）</dd>
     <dt>場所</dt>
     <dd>麗澤大学 柏キャンパス（予定）</dd>
-    <dd>〒277-8686 千葉県柏市光ヶ丘2-1-1</dd>
-    <dd>（JR常磐線各駅停車（東京メトロ千代田線直通） 南柏駅 東口より東武バス1番のりばから乗車で約4分 「麗澤大学前」下車）</dd>
-    <dd><a rel="nofollow" class="external text" href="https://www.reitaku-u.ac.jp/about/access/">アクセス</a></dd>
+    <dd>〒277-8686 千葉県柏市光ヶ丘2-1-1<br>
+    （JR常磐線各駅停車（東京メトロ千代田線直通） 南柏駅 東口より東武バス1番のりばから乗車で約4分 「麗澤大学前」下車）<br>
+    <a rel="nofollow" class="external text" href="https://www.reitaku-u.ac.jp/about/access/">アクセス</a></dd>
+    <dt>形式</dt>
+    <dd>現地開催（動画配信を合わせて計画中）</dd>
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
