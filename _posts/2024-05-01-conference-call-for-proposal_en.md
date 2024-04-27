@@ -27,7 +27,7 @@ See: [Past conferences](/conference/)
     <dd><a rel="nofollow" class="external text" href="https://www.reitaku-u.ac.jp/en/about/location/">Location</a>. Take the JR Joban Line local service (directly linked to the Metro Chiyoda Line), and get off at Minamikashiwa Station. Take the Tobu bus (Bus Stop #1) at the East Exit; the ride takes about 4 minutes. Get off at Reitaku Daigaku Mae Station. From Minamikashiwa Station, it takes 13 minutes on foot.
       </dd>
     <dt>Format</dt>
-    <dd>Offline ()</dd>
+    <dd>Offline (We are planning to be held using Zoom, to be announce)</dd>
     <dt>Website</dt>
     <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2024/en">https://wiki.code4lib.jp/wiki/C4ljp2024/en</a></dd>
 </dl>
