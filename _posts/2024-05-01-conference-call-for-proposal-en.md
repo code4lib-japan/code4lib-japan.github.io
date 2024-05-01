@@ -47,9 +47,9 @@ Please use the form above to submit your presentation.
 
 There are three types of presentations: regular presentations, pre-conferences, and lightning talks.
 
-- Regular presentations (in Japanese): Each presentation has 15 minutes of presentation time and 5 minutes of Q&A time. We plan to accept about 8 proposals. See: [last year's presentations](https://wiki.code4lib.jp/wiki/C4ljp2023/presentation#.E9.80.9A.E5.B8.B8.E7.99.BA.E8.A1.A8.EF.BC.887.E4.BB.B6.EF.BC.89)
+- Regular presentations (in Japanese): Each presentation has 15 minutes of presentation time and 5 minutes of Q&A time. We plan to accept about 8 proposals. See: [last year's presentations](https://wiki.code4lib.jp/wiki/C4ljp2023/presentation)
 - Pre-conferences (Tutorials): These are sessions where participants can learn new skills related to libraries and technology from each other. You are free to plan your own session (about 2 hours), for example, workshops where participants can actually discuss a specific topic, and hands-on seminar where participants can work with specific technologies and tools. They will be held in the morning, September 7th in Japan Standard Time. We plan to accept up to two proposals. See: [last year's preconferences](https://wiki.code4lib.jp/wiki/C4ljp2023/preconference)
-- Lightening talks: Each talk has 5 minutes. Applications will be accepted onsite. See: [last year's lightening talks](https://wiki.code4lib.jp/wiki/C4ljp2023/presentation#.E3.83.A9.E3.82.A4.E3.83.88.E3.83.8B.E3.83.B3.E3.82.B0.E3.83.88.E3.83.BC.E3.82.AF.E7.99.BA.E8.A1.A8)
+- Lightening talks: Each talk has 5 minutes. Applications will be accepted onsite. See: [last year's lightening talks](https://wiki.code4lib.jp/wiki/C4ljp2023/presentation#%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF)
 
 If you would like to give a presentation in the regular session, global session, or pre-conference, please fill out the following information in the presentation application form and submit it.
 
