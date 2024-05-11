@@ -20,7 +20,7 @@ comments: []
 - 日時: 2024年9月7日（土）・8日（日）
 - 会場: 麗澤大学 柏キャンパス（予定）（動画配信を合わせて計画中）
 - Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2024](https://wiki.code4lib.jp/wiki/C4ljp2024)
-    - [発表募集](/2024/05/conference-call-for-proposal/)
+    - [発表募集](https://www.code4lib.jp/2024/05/conference-call-for-proposal/)
     - 参加者募集（追ってご案内いたします）
 
 <p>&nbsp;</p>
