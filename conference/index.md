@@ -6,15 +6,25 @@ title: カンファレンス
 slug: "1146"
 wordpress_id: 1146
 wordpress_url: http://www.code4lib.jp/?page_id=1146
-date: '2013-09-07 17:02:54 +0000'
-date_gmt: '2013-09-07 08:02:54 +0000'
+date: '2024-05-11 17:02:54 +0000'
+date_gmt: '2024-05-11 08:02:54 +0000'
 categories: []
 tags: []
 comments: []
 ---
-<h3>Code4Lib JAPAN カンファレンス</h3>
 <p>2013年から、毎年夏に開催しています。</p>
-<p>次回は2023年9月に開催します。</p>
+<p>次回は2024年9月に開催します。</p>
+
+#### Code4Lib JAPAN カンファレンス2024
+
+- 日時: 2024年9月7日（土）・8日（日）
+- 会場: 麗澤大学 柏キャンパス（予定）（動画配信を合わせて計画中）
+- Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2024](https://wiki.code4lib.jp/wiki/C4ljp2024)
+    - [発表募集](/2024/05/conference-call-for-proposal/)
+    - 参加者募集（追ってご案内いたします）
+
+<p>&nbsp;</p>
+<h3>過去の開催記録</h3>
 
 #### Code4Lib JAPAN カンファレンス2023
 
@@ -23,9 +33,6 @@ comments: []
 - Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2023](https://wiki.code4lib.jp/wiki/C4ljp2023)
     - [発表募集](/2023/05/conference-call-for-proposal/)
     - [参加者募集](/2023/08/call-for-participation/)
-
-<p>&nbsp;</p>
-<h3>過去の開催記録</h3>
 
 #### Code4Lib JAPAN カンファレンス2022
 
