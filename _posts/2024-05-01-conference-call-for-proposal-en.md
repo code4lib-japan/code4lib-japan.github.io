@@ -73,7 +73,7 @@ The program committee will review the presentation applications, taking into con
 ### Code4Lib JAPAN Conference 2024 Program Committee
 
 - Takanori Hayashi (Japan International Research Center for Agricultural Sciences; Program chair)
-- Nobue Koyasu (Chiba Prefectural Library)
+- Nobue Koyasu
 - Tetsuo Sakaguchi (University of Tsukuba)
 - Masao Takaku (University of Tsukuba)
 - Kosuke Tanabe (National Institute for Materials Science)
