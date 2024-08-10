@@ -18,7 +18,7 @@ comments: []
 #### Code4Lib JAPAN カンファレンス2024
 
 - 日時: 2024年9月7日（土）・8日（日）
-- 会場: 麗澤大学 柏キャンパス（動画配信を合わせて計画中）
+- 会場: [麗澤大学 柏キャンパス](https://www.reitaku-u.ac.jp/)（動画配信を合わせて計画中）
 - Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2024](https://wiki.code4lib.jp/wiki/C4ljp2024)
     - [プログラム](https://wiki.code4lib.jp/wiki/C4ljp2024/program)
     - [発表募集](/2024/05/conference-call-for-proposal/)
