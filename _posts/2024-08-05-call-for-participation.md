@@ -28,7 +28,7 @@ comments: []
 <dd>（JR常磐線各駅停車（東京メトロ千代田線直通） 南柏駅 東口より東武バス1番のりばから乗車で約4分 「向原」バス停下車）</dd>
 <dd><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&amp;route=35.8444%2C139.9543%3B35.8340%2C139.9560#map=16/35.8394/139.9552">OpenStreetMap</a> / <a rel="nofollow" class="external text" href="https://www.google.co.jp/maps/place/%E3%80%92277-0065+%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%E5%85%89%E3%82%B1%E4%B8%98%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%91/@35.8338234,139.9540598,16.78z/data=!4m6!3m5!1s0x6018834aeaa0e269:0x34864c1baedc5c23!8m2!3d35.8341673!4d139.9558512!16s%2Fg%2F11d_41446v?hl=ja&amp;entry=ttu">Google Maps</a> / <a rel="nofollow" class="external text" href="https://www.google.com/maps/d/edit?mid=1OEEQV0wK8wOG4DLlddTdFGa0qXvkbaA&amp;usp=sharing">案内地図（Googleマイマップ）</a></dd></dl>
 <dl><dt>形式</dt>
-<dd><font color="red">現地開催</font>（動画配信を合わせて計画中）</dd></dl>
+<dd><font color="red">現地開催</font>（動画配信をあわせて行っています。配信URLは<a href="https://www.code4lib.jp/2024/08/conference-participation-form/">参加申し込み</a>をいただいた後に、Discordでお知らせいたします。</a>）</dd></dl>
 <dl><dt>主催</dt>
 <dd><a rel="nofollow" class="external text" href="https://www.code4lib.jp/">Code4Lib JAPAN</a></dd></dl>
 <dl><dt>協賛（随時募集中）</dt>
