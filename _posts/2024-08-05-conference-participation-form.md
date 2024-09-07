@@ -8,4 +8,6 @@ categories:
 tags: []
 comments: []
 ---
+
+<p>動画配信をあわせて行います。配信URLは参加申し込みをいただいた後に、Discordでお知らせいたします。</p>
 <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdc3JI8sWu0PAXofGkTKrDZR0y9hT6-EMTIOZpukI_dILn7mQ/viewform?embedded=true" width="600" height="1024" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe></p>
