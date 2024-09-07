@@ -37,7 +37,7 @@ comments: []
     （JR常磐線各駅停車（東京メトロ千代田線直通） 南柏駅 東口より東武バス1番のりばから乗車で約4分 「麗澤大学前」下車）<br>
     <a rel="nofollow" class="external text" href="https://www.reitaku-u.ac.jp/about/access/">アクセス</a></dd>
     <dt>形式</dt>
-    <dd>現地開催（動画配信は<a href="https://wiki.code4lib.jp/wiki/C4ljp2024#discord">Discordチャンネル</a>でご案内します）</dd>
+    <dd>現地開催（動画配信をあわせて行っています。配信URLは<a href="https://www.code4lib.jp/2024/08/conference-participation-form/">参加申し込み</a>をいただいた後に、Discordでお知らせいたします。</a>）</dd>
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
