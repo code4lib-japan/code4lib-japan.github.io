@@ -13,7 +13,19 @@ tags: []
 comments: []
 ---
 <p>2013年から、毎年夏に開催しています。</p>
-<p>次回は2024年9月に開催します。</p>
+<p>次回は2025年9月に開催します。</p>
+
+#### Code4Lib JAPAN カンファレンス2025
+
+- 日時: 2025年9月6日（土）・7日（日）
+- 会場: オンライン
+- Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2025](https://wiki.code4lib.jp/wiki/C4ljp2025)
+    - プログラム (TBD)
+    - [発表募集](/2025/04/conference-call-for-proposal/)
+    - 参加者募集 (TBD)
+
+<p>&nbsp;</p>
+<h3>過去の開催記録</h3>
 
 #### Code4Lib JAPAN カンファレンス2024
 
@@ -23,9 +35,6 @@ comments: []
     - [プログラム](https://wiki.code4lib.jp/wiki/C4ljp2024/program)
     - [発表募集](/2024/05/conference-call-for-proposal/)
     - [参加者募集](/2024/08/call-for-participation/)
-
-<p>&nbsp;</p>
-<h3>過去の開催記録</h3>
 
 #### Code4Lib JAPAN カンファレンス2023
 
