@@ -43,7 +43,7 @@ Please use the form above to submit your presentation.
 There are three types of presentations: regular presentations, pre-conferences, and lightning talks.
 
 - Regular presentations (in Japanese): Each presentation has 15 minutes of presentation time and 5 minutes of Q&A time. We plan to accept about 8 proposals. See: [last year's presentations](https://wiki.code4lib.jp/wiki/C4ljp2024/presentation)
-- Pre-conferences (Tutorials): These are sessions where participants can learn new skills related to libraries and technology from each other. You are free to plan your own session (about 2 hours), for example, workshops where participants can actually discuss a specific topic, and hands-on seminar where participants can work with specific technologies and tools. They will be held in the morning, September 7th in Japan Standard Time. We plan to accept up to two proposals. See: [last year's preconferences](https://wiki.code4lib.jp/wiki/C4ljp2024/preconference)
+- Pre-conferences (Tutorials): These are sessions where participants can learn new skills related to libraries and technology from each other. You are free to plan your own session (about 2 hours), for example, workshops where participants can actually discuss a specific topic, and hands-on seminar where participants can work with specific technologies and tools. They will be held in the morning, September 6th in Japan Standard Time. We plan to accept up to two proposals. See: [last year's preconferences](https://wiki.code4lib.jp/wiki/C4ljp2024/preconference)
 - Lightening talks: Each talk has 5 minutes. Applications will be accepted onsite. See: [last year's lightening talks](https://wiki.code4lib.jp/wiki/C4ljp2024/presentation#%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF)
 
 If you would like to give a presentation in the regular session, global session, or pre-conference, please fill out the following information in the presentation application form and submit it.
@@ -61,7 +61,7 @@ In particular, we welcome the following types of presentations:
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
 We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.
 
-The deadline for presentation applications is Jun 30, 2025 (Monday)**.
+The deadline for presentation applications is June 30, 2025 (Monday)**.
 
 The program committee will review the presentation applications, taking into consideration their novelty, usefulness, interestingness, and suitability for the conference, and will notify and announce the results of the selection by the end of July.
 
