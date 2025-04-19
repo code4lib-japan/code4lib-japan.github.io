@@ -6,25 +6,44 @@ title: カンファレンス
 slug: "1146"
 wordpress_id: 1146
 wordpress_url: http://www.code4lib.jp/?page_id=1146
-date: '2013-09-07 17:02:54 +0000'
-date_gmt: '2013-09-07 08:02:54 +0000'
+date: '2024-05-11 17:02:54 +0000'
+date_gmt: '2024-05-11 08:02:54 +0000'
 categories: []
 tags: []
 comments: []
 ---
-<h3>Code4Lib JAPAN カンファレンス</h3>
 <p>2013年から、毎年夏に開催しています。</p>
-<p>次回は2022年9月に開催します。</p>
+<p>次回は2024年9月に開催します。</p>
+
+#### Code4Lib JAPAN カンファレンス2024
+
+- 日時: 2024年9月7日（土）・8日（日）
+- 会場: [麗澤大学 柏キャンパス](https://www.reitaku-u.ac.jp/)（動画配信を合わせて計画中）
+- Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2024](https://wiki.code4lib.jp/wiki/C4ljp2024)
+    - [プログラム](https://wiki.code4lib.jp/wiki/C4ljp2024/program)
+    - [発表募集](/2024/05/conference-call-for-proposal/)
+    - [参加者募集](/2024/08/call-for-participation/)
+
+<p>&nbsp;</p>
+<h3>過去の開催記録</h3>
+
+#### Code4Lib JAPAN カンファレンス2023
+
+- 日時: 2023年9月2日（土），9月3日（日）
+- 会場: オンライン会議
+- Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2023](https://wiki.code4lib.jp/wiki/C4ljp2023)
+    - [プログラム](https://wiki.code4lib.jp/wiki/C4ljp2023/program)
+    - [発表募集](/2023/05/conference-call-for-proposal/)
+    - [参加者募集](/2023/08/call-for-participation/)
 
 #### Code4Lib JAPAN カンファレンス2022
 
 - 日時: 2022年9月3日（土），9月4日（日）
 - 会場: オンライン会議
 - Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2022](https://wiki.code4lib.jp/wiki/C4ljp2022)
-  - [発表募集](/2022/04/conference-call-for-proposal/)
-
-<p>&nbsp;</p>
-<h3>過去の開催記録</h3>
+    - [プログラム](https://wiki.code4lib.jp/wiki/C4ljp2021/program)
+    - [発表募集](/2022/04/conference-call-for-proposal/)
+    - [参加者募集](/2022/08/conference-call-for-participation/)
 
 <h4>Code4Lib JAPAN カンファレンス2021</h4>
 <ul>
