@@ -61,7 +61,7 @@ In particular, we welcome the following types of presentations:
 The content of the presentations can be case studies, practical reports, research presentations, idea sharing, or any other content.
 We are looking forward to receiving applications for presentations based on free ideas, not limited to the above.
 
-The deadline for presentation applications is June 30, 2025 (Monday)**.
+The deadline for presentation applications is **<s>June 30, 2025 (Monday)</s>July 7, 2025 (Monday)**.
 
 The program committee will review the presentation applications, taking into consideration their novelty, usefulness, interestingness, and suitability for the conference, and will notify and announce the results of the selection by the end of July.
 
