@@ -26,7 +26,7 @@ comments: []
 <dl><dt>日程</dt>
 <dd><b>2025年9月6日（土）・7日（日）</b></dd></dl>
 <dl><dt>場所</dt>
-<dd>オンライン/dd></dl>
+<dd>オンライン</dd></dl>
 <dl><dt>形式</dt>
 <dd><font color="red">オンライン</font></dd></dl>
 <dl><dt>主催</dt>
@@ -35,7 +35,6 @@ comments: []
 <dd><a rel="nofollow" class="external text" href="https://arg-corp.jp/">アカデミック・リソース・ガイド株式会社（arg）</a> / <a rel="nofollow" class="external text" href="https://calil.jp/">株式会社カーリル</a> / <a rel="nofollow" class="external text" href="https://www.meta-info.co.jp/">株式会社メタ・インフォ</a></dd></dl>
 <dl><dt>後援（随時募集中）</dt>
 <dd><a rel="nofollow" class="external text" href="https://www.osmf.jp/">一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(OSMFJ)</a> / <a rel="nofollow" class="external text" href="https://www.infosta.or.jp/">一般社団法人情報科学技術協会(INFOSTA)</a> / <a rel="nofollow" class="external text" href="http://www.jsik.jp/">情報知識学会</a></dd></dl>
-
 
 ### ■ プログラム
 
