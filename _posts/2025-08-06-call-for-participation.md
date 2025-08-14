@@ -47,6 +47,6 @@ comments: []
 ### ■ 参加申込
 
 参加される方は、以下のフォームから申し込みをお願い致します。<br>
-<a href="/2025/07/conference-participation-form/" style="border-radius: 5px;">Code4Lib JAPANカンファレンス2025 参加申込みフォーム</a>
+<a href="/2025/08/conference-participation-form/" style="border-radius: 5px;">Code4Lib JAPANカンファレンス2025 参加申込みフォーム</a>
 
 なお、今年度は参加費無料となりました。
