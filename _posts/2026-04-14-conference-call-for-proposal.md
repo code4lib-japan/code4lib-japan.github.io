@@ -36,7 +36,7 @@ comments: []
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
-    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2025">https://wiki.code4lib.jp/wiki/C4ljp2025</a></dd>
+    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2026">https://wiki.code4lib.jp/wiki/C4ljp2026</a></dd>
 </dl>
 
 ### 開催趣旨
@@ -49,15 +49,15 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 
 ### 発表応募について
 
-**発表応募フォーム**: **[https://bit.ly/c4ljp25-proposal](https://bit.ly/c4ljp25-proposal)**
+**発表応募フォーム**: **[https://forms.gle/mHUZwKibcpZqzZVn6](https://forms.gle/mHUZwKibcpZqzZVn6)**
 
 発表は上記フォームからご応募ください。
 
 発表には通常発表、プレカンファレンス、ライトニングトークの3つの形式があります。
 
-- 通常発表：15分の発表時間と5分の質疑応答時間が与えられます。8件程度の採択を予定しています。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2024/presentation)
-- プレカンファレンス（チュートリアル）: 図書館と技術に関わる新しいスキルを参加者同士で学びあうセッションです。実際に特定のテーマについて議論しあうワークショップから、具体的な技術やツールにあわせて手を動かすようなハンズオンセミナーまで、自由なセッション（2時間程度）を企画できます。9月6日（土）午前中の開催を予定しています。最大で2件まで採択予定です。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2023/preconference)
-- ライトニングトーク: 1件あたり5分の発表時間が与えられます。開催当日に募集します。参考: [昨年の発表内容](https://wiki.code4lib.jp/wiki/C4ljp2024/presentation)
+- 通常発表：15分の発表時間と5分の質疑応答時間が与えられます。8件程度の採択を予定しています。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2025/presentation)
+- プレカンファレンス（チュートリアル）: 図書館と技術に関わる新しいスキルを参加者同士で学びあうセッションです。実際に特定のテーマについて議論しあうワークショップから、具体的な技術やツールにあわせて手を動かすようなハンズオンセミナーまで、自由なセッション（2時間程度）を企画できます。9月6日（日）午前中の開催を予定しています。最大で2件まで採択予定です。 参考: [昨年採択された発表内容](https://wiki.code4lib.jp/wiki/C4ljp2025/preconference)
+- ライトニングトーク: 1件あたり5分の発表時間が与えられます。開催当日に募集します。参考: [昨年の発表内容](https://wiki.code4lib.jp/wiki/C4ljp2025/presentation)
 
 通常発表、プレカンファレンスにて発表されたい方は、発表応募フォームにて以下の情報を明記の上、ご応募ください。
 
