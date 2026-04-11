@@ -80,4 +80,4 @@ Code4Lib JAPAN カンファレンスは図書館と技術、Web、ITをむすぶ
 
 ### Code4Lib JAPANカンファレンス2026 プログラム委員会
 
-(TBD)
+code4lib-japan-2026@googlegroups.com
