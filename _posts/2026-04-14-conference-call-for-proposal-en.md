@@ -22,9 +22,9 @@ See: [Past conferences](/conference/)
     <dt>Dates</dt>
     <dd>September 6th (Sun) - 7th (Mon), 2026 (in Japan Standard Time)</dd>
     <dt>Format</dt>
-    <dd>Ise−city, Mie (On-site)</dd>
+    <dd>Ise-city, Mie (On-site)</dd>
     <dt>Website</dt>
-    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2026/en">https://wiki.code4lib.jp/wiki/C4ljp2026/en</a></dd>
+    <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2026">https://wiki.code4lib.jp/wiki/C4ljp2026</a></dd>
 </dl>
 
 ### Purpose of the event
