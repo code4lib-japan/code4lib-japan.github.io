@@ -6,7 +6,7 @@ comments: []
 ---
 [日本語版はこちら](/2026/04/conference-call-for-proposal/)
 
-This year's Code4Lib JAPAN Conference will be held over two days, Sunday, September 6th and Monday, September 7th, 2026.
+This year's Code4Lib JAPAN Conference will be held over two days, September 6th (Sunday) and September 7th (Monday), 2026.
 We invite presentations on a variety of initiatives, including software applications in libraries, archives, and museums, and new ideas related to use of community-based library resources and technologies.
 
 [Code4Lib](https://code4lib.org/) (code for libraries) is a volunteer-driven collective of hackers, designers, architects, curators, catalogers, artists and instigators from around the world, who largely work for and with libraries, archives and museums on technology stuff.
