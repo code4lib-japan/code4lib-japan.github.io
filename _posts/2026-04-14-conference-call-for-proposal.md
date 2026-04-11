@@ -28,7 +28,7 @@ comments: []
 
 <dl class="dl-horizontal">
     <dt>名称</dt>
-    <dd>Code4Lib JAPANカンファレンス2025</dd>
+    <dd>Code4Lib JAPANカンファレンス2026</dd>
     <dt>日程</dt>
     <dd>2026年9月6日（日）・7日（月）</dd>
     <dt>形式</dt>
