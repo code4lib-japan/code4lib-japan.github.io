@@ -16,7 +16,7 @@ comments: []
 <p>次回は2026年9月に開催します。</p>
 
 - 日時: 2026年9月6日（日）・7日（月）
-- 会場: オンライン
+- 会場: 三重県伊勢市（会場調整中）
 - Webサイト: [https://wiki.code4lib.jp/wiki/C4ljp2026](https://wiki.code4lib.jp/wiki/C4ljp2026)
 
 <p>&nbsp;</p>
