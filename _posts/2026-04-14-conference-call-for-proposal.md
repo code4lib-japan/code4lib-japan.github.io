@@ -32,7 +32,7 @@ comments: []
     <dt>日程</dt>
     <dd>2026年9月6日（日）・7日（月）</dd>
     <dt>会場</dt>
-    <dd>三重県伊勢市</dd>
+    <dd><a href="https://www.kogakkan.ac.jp/">皇學館大学</a>（<a href="https://www.openstreetmap.org/?mlat=34.486944&mlon=136.726667&zoom=15#map=15/34.48694/136.72667">三重県伊勢市神田久志本町1704</a>）</dd>
     <dt>後援</dt>
     <dd>（募集中）</dd>
     <dt>Webサイト</dt>
