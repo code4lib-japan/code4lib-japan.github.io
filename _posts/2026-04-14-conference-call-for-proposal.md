@@ -47,6 +47,7 @@ comments: []
         <a href="https://www.infosta.or.jp/">一般社団法人情報科学技術協会(INFOSTA)</a> /
         <a href="https://www.osmf.jp/">一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(OSMFJ)</a>a> /
         <a href="http://www.jsik.jp/">情報知識学会</a>
+        <a href="https://meta.wikimedia.org/wiki/Wikimedians_of_Japan_User_Group">Wikimedians of Japan User Group</a>
     </dd>
     <dt>Webサイト</dt>
     <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2026">https://wiki.code4lib.jp/wiki/C4ljp2026</a></dd>
