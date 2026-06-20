@@ -33,8 +33,22 @@ comments: []
     <dd>2026年9月6日（日）・7日（月）</dd>
     <dt>会場</dt>
     <dd><a href="https://www.kogakkan.ac.jp/">皇學館大学</a>（<a href="https://www.openstreetmap.org/?mlat=34.486944&mlon=136.726667&zoom=15#map=15/34.48694/136.72667">三重県伊勢市神田久志本町1704</a>）</dd>
+    <dt>協賛</dt>
+    <dd>
+        <a href="https://arg-corp.jp/">アカデミック・リソース・ガイド株式会社（arg</a> /
+        <a href="https://calil.jp/">株式会社カーリル</a> /
+        <a href="https://www.meta-info.co.jp/">株式会社メタ・インフォ</a>
+    </dd>
     <dt>後援</dt>
-    <dd>（募集中）</dd>
+    <dd>
+        <a href="https://www.city.ise.mie.jp/">伊勢市</a> / 
+        <a href="https://www.city.ise.mie.jp/kyouiku/">伊勢市教育委員会</a> /
+        <a href="https://www.kogakkan-u.ac.jp/">皇學館大学</a> /
+        <a href="https://www.infosta.or.jp/">一般社団法人情報科学技術協会(INFOSTA)</a> /
+        <a href="https://www.osmf.jp/">一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(OSMFJ)</a> /
+        <a href="http://www.jsik.jp/">情報知識学会</a> /
+        <a href="https://meta.wikimedia.org/wiki/Wikimedians_of_Japan_User_Group">Wikimedians of Japan User Group</a>
+    </dd>
     <dt>Webサイト</dt>
     <dd><a href="https://wiki.code4lib.jp/wiki/C4ljp2026">https://wiki.code4lib.jp/wiki/C4ljp2026</a></dd>
 </dl>
