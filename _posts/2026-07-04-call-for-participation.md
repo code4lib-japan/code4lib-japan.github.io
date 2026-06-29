@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "【2026年9月6・7日】 Code4Lib JAPAN カンファレンス 2025 参加者募集"
+title: "【2026年9月6・7日】 Code4Lib JAPAN カンファレンス 2026 参加者募集"
 categories:
 - ニュース
 - カンファレンス
