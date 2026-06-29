@@ -24,7 +24,7 @@ comments: []
 ## Code4Lib JAPANカンファレンス2026
 
 <dl><dt>日程</dt>
-<dd><b>2026年9月6日（土）・7日（日）</b></dd></dl>
+<dd><b>2026年9月6日（日）・7日（月）</b></dd></dl>
 <dl><dt>場所</dt>
 <dd><a href="https://www.kogakkan-u.ac.jp/">皇學館大学</a>（三重県伊勢市）</dd></dl>
 <dl><dt>形式</dt>
