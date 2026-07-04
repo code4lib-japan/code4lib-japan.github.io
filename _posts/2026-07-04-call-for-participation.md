@@ -15,7 +15,8 @@ comments: []
 第15回目となる今年のカンファレンスは、ご応募いただいた10件の
 [通常発表](https://wiki.code4lib.jp/wiki/C4ljp2026/presentation#%E9%80%9A%E5%B8%B8%E7%99%BA%E8%A1%A8%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)のほか、
 [プレカンファレンス（チュートリアル）](https://wiki.code4lib.jp/wiki/C4ljp2026/preconference)、
-[ライトニングトーク](https://wiki.code4lib.jp/wiki/C4ljp2026/presentation#%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF)（当日募集）など、魅力的なコンテンツが盛りだくさんです。
+[ライトニングトーク](https://wiki.code4lib.jp/wiki/C4ljp2026/presentation#%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF)（当日募集）、
+[エクスカーション（見学会）](https://wiki.code4lib.jp/wiki/C4ljp2026/program#%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)など、魅力的なコンテンツが盛りだくさんです。
 
 多数の方々のご参加をお待ちしております！
 
@@ -24,7 +25,7 @@ comments: []
 ## Code4Lib JAPANカンファレンス2026
 
 <dl><dt>日程</dt>
-<dd><b>2026年9月6日（日）・7日（月）</b></dd></dl>
+<dd><strong>2026年9月6日（日）・7日（月）</strong>（エクスカーションは9月5日（土））</dd></dl>
 <dl><dt>場所</dt>
 <dd><a href="https://www.kogakkan-u.ac.jp/">皇學館大学</a>（三重県伊勢市）</dd></dl>
 <dl><dt>形式</dt>
@@ -44,9 +45,9 @@ comments: []
 
 <span style="color: red">通常発表セッションの応募受付は終了しましたが、ライトニングトークは開催当日に募集します。</span>
 
-### ■ 参加申込
+### ■ 参加申し込み
 
 参加される方は、以下のフォームから申し込みをお願い致します。<br>
-<a href="/2026/07/conference-participation-form/" style="border-radius: 5px;">Code4Lib JAPANカンファレンス2026 参加申込みフォーム</a>
+<a href="/2026/07/conference-participation-form/" style="border-radius: 5px;">Code4Lib JAPANカンファレンス2026 参加申し込みフォーム</a>
 
 なお、今年度は参加費無料となりました。
