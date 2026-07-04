@@ -48,6 +48,6 @@ comments: []
 ### ■ 参加申し込み
 
 参加される方は、以下のフォームから申し込みをお願い致します。<br>
-<a href="/2026/07/conference-participation-form/" style="border-radius: 5px;">Code4Lib JAPANカンファレンス2026 参加申し込みフォーム</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdrsa2f9897J3CYwhWU_OXGYgWrNohDrjLTOCmpWWdGradv0Q/viewform?usp=header" style="border-radius: 5px;">Code4Lib JAPANカンファレンス2026 参加申し込みフォーム</a> （Googleフォーム）
 
 なお、今年度は参加費無料となりました。
