@@ -35,7 +35,13 @@ comments: []
 <dl><dt>協賛（随時募集中）</dt>
 <dd><a class="external text" href="https://arg-corp.jp/">アカデミック・リソース・ガイド株式会社（arg）</a> / <a class="external text" href="https://calil.jp/">株式会社カーリル</a> / <a class="external text" href="https://www.meta-info.co.jp/">株式会社メタ・インフォ</a></dd></dl>
 <dl><dt>後援（随時募集中）</dt>
-<dd><a class="external text" href="https://www.osmf.jp/">一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(OSMFJ)</a> / <a class="external text" href="https://www.infosta.or.jp/">一般社団法人情報科学技術協会(INFOSTA)</a> / <a class="external text" href="http://www.jsik.jp/">情報知識学会</a></dd></dl>
+<dd>
+  <a class="external text" href="https://www.city.ise.mie.jp/">伊勢市</a> /
+  <a class="external text" href="https://www.city.ise.mie.jp/kyouiku/">伊勢市教育委員会</a> /
+  <a class="external text" href="https://www.kogakkan-u.ac.jp/">皇學館大学</a> /
+  <a class="external text" href="https://www.osmf.jp/">一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(OSMFJ)</a> / 
+  <a class="external text" href="https://www.infosta.or.jp/">一般社団法人情報科学技術協会(INFOSTA)</a> / <a class="external text" href="http://www.jsik.jp/">情報知識学会</a>
+</dd></dl>
 
 ### ■ プログラム
 
