@@ -60,3 +60,5 @@ comments: []
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrsa2f9897J3CYwhWU_OXGYgWrNohDrjLTOCmpWWdGradv0Q/viewform?usp=header" style="border-radius: 5px;">Code4Lib JAPANカンファレンス2026 参加申し込みフォーム</a> （Googleフォーム）
 
 なお、今年度は参加費無料となりました。
+
+本カンファレンスは、伊勢市より[伊勢市集大会・合宿誘致補助金の交付](https://www.city.ise.mie.jp/kyouiku/sports/hojo/index.html)（補助額: 宿泊延べ人数×1,000円）を申請する予定です。
