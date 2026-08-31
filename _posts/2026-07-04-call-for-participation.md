@@ -33,7 +33,12 @@ comments: []
 <dl><dt>主催</dt>
 <dd><a class="external text" href="https://www.code4lib.jp/">Code4Lib JAPAN</a></dd></dl>
 <dl><dt>協賛（随時募集中）</dt>
-<dd><a class="external text" href="https://arg-corp.jp/">アカデミック・リソース・ガイド株式会社（arg）</a> / <a class="external text" href="https://calil.jp/">株式会社カーリル</a> / <a class="external text" href="https://www.meta-info.co.jp/">株式会社メタ・インフォ</a></dd></dl>
+<dd>
+  <a class="external text" href="https://arg-corp.jp/">アカデミック・リソース・ガイド株式会社（arg）</a> /
+  <a class="external text" href="https://calil.jp/">株式会社カーリル</a> /
+  <a class="external text" href="https://five-vai.com/">株式会社FiveVai</a> /
+  <a class="external text" href="https://www.meta-info.co.jp/">株式会社メタ・インフォ</a>
+</dd></dl>
 <dl><dt>後援（随時募集中）</dt>
 <dd>
   <a class="external text" href="https://www.city.ise.mie.jp/">伊勢市</a> /
